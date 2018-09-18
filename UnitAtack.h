@@ -10,6 +10,8 @@
 #include "DamageSpellBook.h"
 #include "BookOfHealingSpell.h"
 
+class Unit;
+
 class UnitAtack
 {
 public:
@@ -24,6 +26,8 @@ public:
 
     virtual void magicAtack(UnitAtack* attackerAtack, UnitState* attackerState, UnitAtack* victimAtack, UnitState* victimState, DamageSpellList spell);
     virtual void heal(UnitAtack* attackerAtack, UnitState* attackerState, UnitAtack* victimAtack, UnitState* victimState, HealingSpellList spell);
+
+    virtual Unit* createDemon(UnitState *unitState);
 };
 
 

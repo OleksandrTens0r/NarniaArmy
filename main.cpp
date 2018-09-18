@@ -7,6 +7,8 @@
 #include "Unit.h"
 #include "Wizard.h"
 #include "Healer.h"
+#include "Warlock.h"
+#include "Necromancer.h"
 
 //WATER_VORTEX,
 //FIRE_RING,
@@ -18,8 +20,8 @@
 
 int main()
 {
-//    Soldier* soldier1 = new Soldier("Aristarh", 100, 10);
-//    Soldier* soldier2 = new Soldier("Bomm", 100, 10);
+    Soldier* soldier1 = new Soldier("Aristarh", 200, 200);
+    Soldier* soldier2 = new Soldier("Bomm", 100, 10);
 //    Soldier* soldier3 = new Soldier("Aristarh2", 100, 10);
 //    Vampire* vampire = new Vampire("Dracule", 200, 50);
 //    Rogue* rogue = new Rogue("Papa_Karlo", 300, 30);
@@ -27,24 +29,44 @@ int main()
 //    Berserker* berserker = new Berserker("Bekerbelli", 200, 100);
     Wizard* wizard = new Wizard("Gendolf", 200, 100, 100, 1000);
     Healer* healer = new Healer("Shaman", 200, 100, 100, 1000);
+    Warlock* warlock = new Warlock("Shaman", 200, 100, 100, 1000);
+    Necromancer* necromancer = new Necromancer("Kell-Tyzzer", 200, 100, 100, 1000);
     //vampire->transformAndAtack(soldier1);
 
     //berserker->bite(soldier1);
 
-    wizard->show();
 
     std::cout << "_________________________________" << std::endl;
 
     try
     {
-       healer->makeMagicDamage(wizard, WATER_VORTEX);
+        necromancer->makeDamage(soldier1);
+
+        necromancer->show();
+
+        std::cout << "_________________________________" << std::endl;
+
+        soldier1->show();
+
+        std::cout << "_________________________________" << std::endl;
+        std::cout << "_________________________________" << std::endl;
+
+        necromancer->makeDamage(soldier1);
+
+        necromancer->show();
+
+        std::cout << "_________________________________" << std::endl;
+
+        soldier1->show();
+
+        std::cout << "_________________________________" << std::endl;
+        std::cout << "_________________________________" << std::endl;
     }
     catch(std::exception &ex)
     {
         std::cout << ex.what() << std::endl;
     }
 
-    wizard->show();
 
 //    std::cout <<  *healer << std::endl;
 //    std::cout << "--------------------------------" << std::endl;

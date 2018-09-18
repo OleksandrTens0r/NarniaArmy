@@ -7,6 +7,9 @@
 
 #include <iostream>
 #include <string>
+#include "list"
+
+class Unit;
 
 enum Form {HUMAN, WOLF};
 
@@ -18,7 +21,12 @@ private:
     int hitPointsLimit;
     int hitPoints;
     int atackPower;
+
+    bool _notify;
+    std::list<UnitState*> observers;
 protected:
+    virtual void update();
+
     int magicPower;
     int manaLimit;
     int manaReserve;
@@ -55,6 +63,9 @@ public:
     virtual void takeMagicDamage(int Hp);
     virtual void takeMana(int mana);
     virtual void takeHolyWaterDamage(int Hp);
+
+    virtual void addObserver(UnitState* observer);
+    virtual void removeObserver(UnitState* observer);
 
     virtual ~UnitState();
 };

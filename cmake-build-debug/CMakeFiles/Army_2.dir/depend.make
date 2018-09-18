@@ -28,6 +28,17 @@ CMakeFiles/Army_2.dir/DamageSpellBook.cpp.o: ../DamageSpells.h
 CMakeFiles/Army_2.dir/DamageSpells.cpp.o: ../DamageSpells.cpp
 CMakeFiles/Army_2.dir/DamageSpells.cpp.o: ../DamageSpells.h
 
+CMakeFiles/Army_2.dir/Demon.cpp.o: ../BookOfHealingSpell.h
+CMakeFiles/Army_2.dir/Demon.cpp.o: ../DamageSpellBook.h
+CMakeFiles/Army_2.dir/Demon.cpp.o: ../DamageSpells.h
+CMakeFiles/Army_2.dir/Demon.cpp.o: ../Demon.cpp
+CMakeFiles/Army_2.dir/Demon.cpp.o: ../Demon.h
+CMakeFiles/Army_2.dir/Demon.cpp.o: ../HealingSpells.h
+CMakeFiles/Army_2.dir/Demon.cpp.o: ../IncorrectAction.h
+CMakeFiles/Army_2.dir/Demon.cpp.o: ../Unit.h
+CMakeFiles/Army_2.dir/Demon.cpp.o: ../UnitAtack.h
+CMakeFiles/Army_2.dir/Demon.cpp.o: ../UnitState.h
+
 CMakeFiles/Army_2.dir/Healer.cpp.o: ../BookOfHealingSpell.h
 CMakeFiles/Army_2.dir/Healer.cpp.o: ../DamageSpellBook.h
 CMakeFiles/Army_2.dir/Healer.cpp.o: ../DamageSpells.h
@@ -61,6 +72,40 @@ CMakeFiles/Army_2.dir/HealingSpells.cpp.o: ../HealingSpells.h
 
 CMakeFiles/Army_2.dir/IncorrectAction.cpp.o: ../IncorrectAction.cpp
 CMakeFiles/Army_2.dir/IncorrectAction.cpp.o: ../IncorrectAction.h
+
+CMakeFiles/Army_2.dir/Necromancer.cpp.o: ../BookOfHealingSpell.h
+CMakeFiles/Army_2.dir/Necromancer.cpp.o: ../DamageSpellBook.h
+CMakeFiles/Army_2.dir/Necromancer.cpp.o: ../DamageSpells.h
+CMakeFiles/Army_2.dir/Necromancer.cpp.o: ../HealingSpells.h
+CMakeFiles/Army_2.dir/Necromancer.cpp.o: ../IncorrectAction.h
+CMakeFiles/Army_2.dir/Necromancer.cpp.o: ../Necromancer.cpp
+CMakeFiles/Army_2.dir/Necromancer.cpp.o: ../Necromancer.h
+CMakeFiles/Army_2.dir/Necromancer.cpp.o: ../NecromancerAtack.h
+CMakeFiles/Army_2.dir/Necromancer.cpp.o: ../NecromancerState.h
+CMakeFiles/Army_2.dir/Necromancer.cpp.o: ../SpellCaster.h
+CMakeFiles/Army_2.dir/Necromancer.cpp.o: ../SpellCasterAtack.h
+CMakeFiles/Army_2.dir/Necromancer.cpp.o: ../SpellCasterState.h
+CMakeFiles/Army_2.dir/Necromancer.cpp.o: ../Unit.h
+CMakeFiles/Army_2.dir/Necromancer.cpp.o: ../UnitAtack.h
+CMakeFiles/Army_2.dir/Necromancer.cpp.o: ../UnitState.h
+
+CMakeFiles/Army_2.dir/NecromancerAtack.cpp.o: ../BookOfHealingSpell.h
+CMakeFiles/Army_2.dir/NecromancerAtack.cpp.o: ../DamageSpellBook.h
+CMakeFiles/Army_2.dir/NecromancerAtack.cpp.o: ../DamageSpells.h
+CMakeFiles/Army_2.dir/NecromancerAtack.cpp.o: ../HealingSpells.h
+CMakeFiles/Army_2.dir/NecromancerAtack.cpp.o: ../IncorrectAction.h
+CMakeFiles/Army_2.dir/NecromancerAtack.cpp.o: ../NecromancerAtack.cpp
+CMakeFiles/Army_2.dir/NecromancerAtack.cpp.o: ../NecromancerAtack.h
+CMakeFiles/Army_2.dir/NecromancerAtack.cpp.o: ../SpellCasterAtack.h
+CMakeFiles/Army_2.dir/NecromancerAtack.cpp.o: ../SpellCasterState.h
+CMakeFiles/Army_2.dir/NecromancerAtack.cpp.o: ../Unit.h
+CMakeFiles/Army_2.dir/NecromancerAtack.cpp.o: ../UnitAtack.h
+CMakeFiles/Army_2.dir/NecromancerAtack.cpp.o: ../UnitState.h
+
+CMakeFiles/Army_2.dir/NecromancerState.cpp.o: ../NecromancerState.cpp
+CMakeFiles/Army_2.dir/NecromancerState.cpp.o: ../NecromancerState.h
+CMakeFiles/Army_2.dir/NecromancerState.cpp.o: ../SpellCasterState.h
+CMakeFiles/Army_2.dir/NecromancerState.cpp.o: ../UnitState.h
 
 CMakeFiles/Army_2.dir/Priest.cpp.o: ../BookOfHealingSpell.h
 CMakeFiles/Army_2.dir/Priest.cpp.o: ../DamageSpellBook.h
@@ -208,6 +253,36 @@ CMakeFiles/Army_2.dir/VampireState.cpp.o: ../UnitState.h
 CMakeFiles/Army_2.dir/VampireState.cpp.o: ../VampireState.cpp
 CMakeFiles/Army_2.dir/VampireState.cpp.o: ../VampireState.h
 
+CMakeFiles/Army_2.dir/Warlock.cpp.o: ../BookOfHealingSpell.h
+CMakeFiles/Army_2.dir/Warlock.cpp.o: ../DamageSpellBook.h
+CMakeFiles/Army_2.dir/Warlock.cpp.o: ../DamageSpells.h
+CMakeFiles/Army_2.dir/Warlock.cpp.o: ../Demon.h
+CMakeFiles/Army_2.dir/Warlock.cpp.o: ../HealingSpells.h
+CMakeFiles/Army_2.dir/Warlock.cpp.o: ../IncorrectAction.h
+CMakeFiles/Army_2.dir/Warlock.cpp.o: ../SpellCaster.h
+CMakeFiles/Army_2.dir/Warlock.cpp.o: ../SpellCasterAtack.h
+CMakeFiles/Army_2.dir/Warlock.cpp.o: ../SpellCasterState.h
+CMakeFiles/Army_2.dir/Warlock.cpp.o: ../Unit.h
+CMakeFiles/Army_2.dir/Warlock.cpp.o: ../UnitAtack.h
+CMakeFiles/Army_2.dir/Warlock.cpp.o: ../UnitState.h
+CMakeFiles/Army_2.dir/Warlock.cpp.o: ../Warlock.cpp
+CMakeFiles/Army_2.dir/Warlock.cpp.o: ../Warlock.h
+CMakeFiles/Army_2.dir/Warlock.cpp.o: ../WarlockAtack.h
+
+CMakeFiles/Army_2.dir/WarlockAtack.cpp.o: ../BookOfHealingSpell.h
+CMakeFiles/Army_2.dir/WarlockAtack.cpp.o: ../DamageSpellBook.h
+CMakeFiles/Army_2.dir/WarlockAtack.cpp.o: ../DamageSpells.h
+CMakeFiles/Army_2.dir/WarlockAtack.cpp.o: ../Demon.h
+CMakeFiles/Army_2.dir/WarlockAtack.cpp.o: ../HealingSpells.h
+CMakeFiles/Army_2.dir/WarlockAtack.cpp.o: ../IncorrectAction.h
+CMakeFiles/Army_2.dir/WarlockAtack.cpp.o: ../SpellCasterAtack.h
+CMakeFiles/Army_2.dir/WarlockAtack.cpp.o: ../SpellCasterState.h
+CMakeFiles/Army_2.dir/WarlockAtack.cpp.o: ../Unit.h
+CMakeFiles/Army_2.dir/WarlockAtack.cpp.o: ../UnitAtack.h
+CMakeFiles/Army_2.dir/WarlockAtack.cpp.o: ../UnitState.h
+CMakeFiles/Army_2.dir/WarlockAtack.cpp.o: ../WarlockAtack.cpp
+CMakeFiles/Army_2.dir/WarlockAtack.cpp.o: ../WarlockAtack.h
+
 CMakeFiles/Army_2.dir/Werewolf.cpp.o: ../BookOfHealingSpell.h
 CMakeFiles/Army_2.dir/Werewolf.cpp.o: ../DamageSpellBook.h
 CMakeFiles/Army_2.dir/Werewolf.cpp.o: ../DamageSpells.h
@@ -274,10 +349,14 @@ CMakeFiles/Army_2.dir/main.cpp.o: ../BerserkerState.h
 CMakeFiles/Army_2.dir/main.cpp.o: ../BookOfHealingSpell.h
 CMakeFiles/Army_2.dir/main.cpp.o: ../DamageSpellBook.h
 CMakeFiles/Army_2.dir/main.cpp.o: ../DamageSpells.h
+CMakeFiles/Army_2.dir/main.cpp.o: ../Demon.h
 CMakeFiles/Army_2.dir/main.cpp.o: ../Healer.h
 CMakeFiles/Army_2.dir/main.cpp.o: ../HealerAtack.h
 CMakeFiles/Army_2.dir/main.cpp.o: ../HealingSpells.h
 CMakeFiles/Army_2.dir/main.cpp.o: ../IncorrectAction.h
+CMakeFiles/Army_2.dir/main.cpp.o: ../Necromancer.h
+CMakeFiles/Army_2.dir/main.cpp.o: ../NecromancerAtack.h
+CMakeFiles/Army_2.dir/main.cpp.o: ../NecromancerState.h
 CMakeFiles/Army_2.dir/main.cpp.o: ../Rogue.h
 CMakeFiles/Army_2.dir/main.cpp.o: ../Soldier.h
 CMakeFiles/Army_2.dir/main.cpp.o: ../SpellCaster.h
@@ -289,6 +368,8 @@ CMakeFiles/Army_2.dir/main.cpp.o: ../UnitState.h
 CMakeFiles/Army_2.dir/main.cpp.o: ../Vampire.h
 CMakeFiles/Army_2.dir/main.cpp.o: ../VampireAtack.h
 CMakeFiles/Army_2.dir/main.cpp.o: ../VampireState.h
+CMakeFiles/Army_2.dir/main.cpp.o: ../Warlock.h
+CMakeFiles/Army_2.dir/main.cpp.o: ../WarlockAtack.h
 CMakeFiles/Army_2.dir/main.cpp.o: ../Werewolf.h
 CMakeFiles/Army_2.dir/main.cpp.o: ../WerewolfAtack.h
 CMakeFiles/Army_2.dir/main.cpp.o: ../WerewolfState.h

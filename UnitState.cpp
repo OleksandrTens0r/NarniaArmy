@@ -4,9 +4,15 @@
 
 #include "UnitState.h"
 
-UnitState::UnitState() = default;
+UnitState::UnitState()
+{
+    _notify = true;
+}
 
-UnitState::~UnitState() = default;
+UnitState::~UnitState()
+{
+    observers.clear();
+}
 
 const std::string &UnitState::getName() const
 {
@@ -72,8 +78,13 @@ void UnitState::takeDamage(int Hp)
     {
         this->hitPoints -= Hp;
 
-        if ( this->hitPoints < 0 )
+        if ( this->hitPoints <= 0 )
         {
+            if ( _notify )
+            {
+                update();
+                _notify = false;
+            }
             this->hitPoints = 0;
         }
     }
@@ -139,4 +150,22 @@ void UnitState::takeMana(int mana)
 void UnitState::takeHolyWaterDamage(int Hp)
 {
     takeDamage(Hp);
+}
+
+void UnitState::update()
+{
+    for ( auto x : observers )
+    {
+        x->addHp(this->getHitPointsLimit() / 4);
+    }
+}
+
+void UnitState::addObserver(UnitState* observer)
+{
+    observers.push_back(observer);
+}
+
+void UnitState::removeObserver(UnitState* observer)
+{
+    observers.remove(observer);
 }

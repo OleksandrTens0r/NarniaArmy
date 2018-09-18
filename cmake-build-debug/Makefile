@@ -258,6 +258,33 @@ DamageSpells.cpp.s:
 	$(MAKE) -f CMakeFiles/Army_2.dir/build.make CMakeFiles/Army_2.dir/DamageSpells.cpp.s
 .PHONY : DamageSpells.cpp.s
 
+Demon.o: Demon.cpp.o
+
+.PHONY : Demon.o
+
+# target to build an object file
+Demon.cpp.o:
+	$(MAKE) -f CMakeFiles/Army_2.dir/build.make CMakeFiles/Army_2.dir/Demon.cpp.o
+.PHONY : Demon.cpp.o
+
+Demon.i: Demon.cpp.i
+
+.PHONY : Demon.i
+
+# target to preprocess a source file
+Demon.cpp.i:
+	$(MAKE) -f CMakeFiles/Army_2.dir/build.make CMakeFiles/Army_2.dir/Demon.cpp.i
+.PHONY : Demon.cpp.i
+
+Demon.s: Demon.cpp.s
+
+.PHONY : Demon.s
+
+# target to generate assembly for a file
+Demon.cpp.s:
+	$(MAKE) -f CMakeFiles/Army_2.dir/build.make CMakeFiles/Army_2.dir/Demon.cpp.s
+.PHONY : Demon.cpp.s
+
 Healer.o: Healer.cpp.o
 
 .PHONY : Healer.o
@@ -365,6 +392,87 @@ IncorrectAction.s: IncorrectAction.cpp.s
 IncorrectAction.cpp.s:
 	$(MAKE) -f CMakeFiles/Army_2.dir/build.make CMakeFiles/Army_2.dir/IncorrectAction.cpp.s
 .PHONY : IncorrectAction.cpp.s
+
+Necromancer.o: Necromancer.cpp.o
+
+.PHONY : Necromancer.o
+
+# target to build an object file
+Necromancer.cpp.o:
+	$(MAKE) -f CMakeFiles/Army_2.dir/build.make CMakeFiles/Army_2.dir/Necromancer.cpp.o
+.PHONY : Necromancer.cpp.o
+
+Necromancer.i: Necromancer.cpp.i
+
+.PHONY : Necromancer.i
+
+# target to preprocess a source file
+Necromancer.cpp.i:
+	$(MAKE) -f CMakeFiles/Army_2.dir/build.make CMakeFiles/Army_2.dir/Necromancer.cpp.i
+.PHONY : Necromancer.cpp.i
+
+Necromancer.s: Necromancer.cpp.s
+
+.PHONY : Necromancer.s
+
+# target to generate assembly for a file
+Necromancer.cpp.s:
+	$(MAKE) -f CMakeFiles/Army_2.dir/build.make CMakeFiles/Army_2.dir/Necromancer.cpp.s
+.PHONY : Necromancer.cpp.s
+
+NecromancerAtack.o: NecromancerAtack.cpp.o
+
+.PHONY : NecromancerAtack.o
+
+# target to build an object file
+NecromancerAtack.cpp.o:
+	$(MAKE) -f CMakeFiles/Army_2.dir/build.make CMakeFiles/Army_2.dir/NecromancerAtack.cpp.o
+.PHONY : NecromancerAtack.cpp.o
+
+NecromancerAtack.i: NecromancerAtack.cpp.i
+
+.PHONY : NecromancerAtack.i
+
+# target to preprocess a source file
+NecromancerAtack.cpp.i:
+	$(MAKE) -f CMakeFiles/Army_2.dir/build.make CMakeFiles/Army_2.dir/NecromancerAtack.cpp.i
+.PHONY : NecromancerAtack.cpp.i
+
+NecromancerAtack.s: NecromancerAtack.cpp.s
+
+.PHONY : NecromancerAtack.s
+
+# target to generate assembly for a file
+NecromancerAtack.cpp.s:
+	$(MAKE) -f CMakeFiles/Army_2.dir/build.make CMakeFiles/Army_2.dir/NecromancerAtack.cpp.s
+.PHONY : NecromancerAtack.cpp.s
+
+NecromancerState.o: NecromancerState.cpp.o
+
+.PHONY : NecromancerState.o
+
+# target to build an object file
+NecromancerState.cpp.o:
+	$(MAKE) -f CMakeFiles/Army_2.dir/build.make CMakeFiles/Army_2.dir/NecromancerState.cpp.o
+.PHONY : NecromancerState.cpp.o
+
+NecromancerState.i: NecromancerState.cpp.i
+
+.PHONY : NecromancerState.i
+
+# target to preprocess a source file
+NecromancerState.cpp.i:
+	$(MAKE) -f CMakeFiles/Army_2.dir/build.make CMakeFiles/Army_2.dir/NecromancerState.cpp.i
+.PHONY : NecromancerState.cpp.i
+
+NecromancerState.s: NecromancerState.cpp.s
+
+.PHONY : NecromancerState.s
+
+# target to generate assembly for a file
+NecromancerState.cpp.s:
+	$(MAKE) -f CMakeFiles/Army_2.dir/build.make CMakeFiles/Army_2.dir/NecromancerState.cpp.s
+.PHONY : NecromancerState.cpp.s
 
 Priest.o: Priest.cpp.o
 
@@ -744,6 +852,60 @@ VampireState.cpp.s:
 	$(MAKE) -f CMakeFiles/Army_2.dir/build.make CMakeFiles/Army_2.dir/VampireState.cpp.s
 .PHONY : VampireState.cpp.s
 
+Warlock.o: Warlock.cpp.o
+
+.PHONY : Warlock.o
+
+# target to build an object file
+Warlock.cpp.o:
+	$(MAKE) -f CMakeFiles/Army_2.dir/build.make CMakeFiles/Army_2.dir/Warlock.cpp.o
+.PHONY : Warlock.cpp.o
+
+Warlock.i: Warlock.cpp.i
+
+.PHONY : Warlock.i
+
+# target to preprocess a source file
+Warlock.cpp.i:
+	$(MAKE) -f CMakeFiles/Army_2.dir/build.make CMakeFiles/Army_2.dir/Warlock.cpp.i
+.PHONY : Warlock.cpp.i
+
+Warlock.s: Warlock.cpp.s
+
+.PHONY : Warlock.s
+
+# target to generate assembly for a file
+Warlock.cpp.s:
+	$(MAKE) -f CMakeFiles/Army_2.dir/build.make CMakeFiles/Army_2.dir/Warlock.cpp.s
+.PHONY : Warlock.cpp.s
+
+WarlockAtack.o: WarlockAtack.cpp.o
+
+.PHONY : WarlockAtack.o
+
+# target to build an object file
+WarlockAtack.cpp.o:
+	$(MAKE) -f CMakeFiles/Army_2.dir/build.make CMakeFiles/Army_2.dir/WarlockAtack.cpp.o
+.PHONY : WarlockAtack.cpp.o
+
+WarlockAtack.i: WarlockAtack.cpp.i
+
+.PHONY : WarlockAtack.i
+
+# target to preprocess a source file
+WarlockAtack.cpp.i:
+	$(MAKE) -f CMakeFiles/Army_2.dir/build.make CMakeFiles/Army_2.dir/WarlockAtack.cpp.i
+.PHONY : WarlockAtack.cpp.i
+
+WarlockAtack.s: WarlockAtack.cpp.s
+
+.PHONY : WarlockAtack.s
+
+# target to generate assembly for a file
+WarlockAtack.cpp.s:
+	$(MAKE) -f CMakeFiles/Army_2.dir/build.make CMakeFiles/Army_2.dir/WarlockAtack.cpp.s
+.PHONY : WarlockAtack.cpp.s
+
 Werewolf.o: Werewolf.cpp.o
 
 .PHONY : Werewolf.o
@@ -930,6 +1092,9 @@ help:
 	@echo "... DamageSpells.o"
 	@echo "... DamageSpells.i"
 	@echo "... DamageSpells.s"
+	@echo "... Demon.o"
+	@echo "... Demon.i"
+	@echo "... Demon.s"
 	@echo "... Healer.o"
 	@echo "... Healer.i"
 	@echo "... Healer.s"
@@ -942,6 +1107,15 @@ help:
 	@echo "... IncorrectAction.o"
 	@echo "... IncorrectAction.i"
 	@echo "... IncorrectAction.s"
+	@echo "... Necromancer.o"
+	@echo "... Necromancer.i"
+	@echo "... Necromancer.s"
+	@echo "... NecromancerAtack.o"
+	@echo "... NecromancerAtack.i"
+	@echo "... NecromancerAtack.s"
+	@echo "... NecromancerState.o"
+	@echo "... NecromancerState.i"
+	@echo "... NecromancerState.s"
 	@echo "... Priest.o"
 	@echo "... Priest.i"
 	@echo "... Priest.s"
@@ -984,6 +1158,12 @@ help:
 	@echo "... VampireState.o"
 	@echo "... VampireState.i"
 	@echo "... VampireState.s"
+	@echo "... Warlock.o"
+	@echo "... Warlock.i"
+	@echo "... Warlock.s"
+	@echo "... WarlockAtack.o"
+	@echo "... WarlockAtack.i"
+	@echo "... WarlockAtack.s"
 	@echo "... Werewolf.o"
 	@echo "... Werewolf.i"
 	@echo "... Werewolf.s"

@@ -110,6 +110,12 @@
 		<Unit filename="/Users/alex/Desktop/bws4/Army_2/DamageSpells.h">
 			<Option target="Army_2"/>
 		</Unit>
+		<Unit filename="/Users/alex/Desktop/bws4/Army_2/Demon.cpp">
+			<Option target="Army_2"/>
+		</Unit>
+		<Unit filename="/Users/alex/Desktop/bws4/Army_2/Demon.h">
+			<Option target="Army_2"/>
+		</Unit>
 		<Unit filename="/Users/alex/Desktop/bws4/Army_2/Healer.cpp">
 			<Option target="Army_2"/>
 		</Unit>
@@ -132,6 +138,24 @@
 			<Option target="Army_2"/>
 		</Unit>
 		<Unit filename="/Users/alex/Desktop/bws4/Army_2/IncorrectAction.h">
+			<Option target="Army_2"/>
+		</Unit>
+		<Unit filename="/Users/alex/Desktop/bws4/Army_2/Necromancer.cpp">
+			<Option target="Army_2"/>
+		</Unit>
+		<Unit filename="/Users/alex/Desktop/bws4/Army_2/Necromancer.h">
+			<Option target="Army_2"/>
+		</Unit>
+		<Unit filename="/Users/alex/Desktop/bws4/Army_2/NecromancerAtack.cpp">
+			<Option target="Army_2"/>
+		</Unit>
+		<Unit filename="/Users/alex/Desktop/bws4/Army_2/NecromancerAtack.h">
+			<Option target="Army_2"/>
+		</Unit>
+		<Unit filename="/Users/alex/Desktop/bws4/Army_2/NecromancerState.cpp">
+			<Option target="Army_2"/>
+		</Unit>
+		<Unit filename="/Users/alex/Desktop/bws4/Army_2/NecromancerState.h">
 			<Option target="Army_2"/>
 		</Unit>
 		<Unit filename="/Users/alex/Desktop/bws4/Army_2/Priest.cpp">
@@ -216,6 +240,18 @@
 			<Option target="Army_2"/>
 		</Unit>
 		<Unit filename="/Users/alex/Desktop/bws4/Army_2/VampireState.h">
+			<Option target="Army_2"/>
+		</Unit>
+		<Unit filename="/Users/alex/Desktop/bws4/Army_2/Warlock.cpp">
+			<Option target="Army_2"/>
+		</Unit>
+		<Unit filename="/Users/alex/Desktop/bws4/Army_2/Warlock.h">
+			<Option target="Army_2"/>
+		</Unit>
+		<Unit filename="/Users/alex/Desktop/bws4/Army_2/WarlockAtack.cpp">
+			<Option target="Army_2"/>
+		</Unit>
+		<Unit filename="/Users/alex/Desktop/bws4/Army_2/WarlockAtack.h">
 			<Option target="Army_2"/>
 		</Unit>
 		<Unit filename="/Users/alex/Desktop/bws4/Army_2/Werewolf.cpp">

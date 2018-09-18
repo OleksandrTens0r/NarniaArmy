@@ -45,3 +45,10 @@ void UnitAtack::heal(UnitAtack* attackerAtack, UnitState* attackerState, UnitAta
 {
     throw IncorrectAction("This unit can not cast!");
 }
+
+Unit *UnitAtack::createDemon(UnitState *unitState)
+{
+    //throw IncorrectAction("This unit can not cast!");
+    return nullptr;
+}
+

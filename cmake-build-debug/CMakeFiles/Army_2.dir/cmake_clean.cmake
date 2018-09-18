@@ -28,6 +28,12 @@ file(REMOVE_RECURSE
   "CMakeFiles/Army_2.dir/WerewolfState.cpp.o"
   "CMakeFiles/Army_2.dir/Wizard.cpp.o"
   "CMakeFiles/Army_2.dir/WizardAtack.cpp.o"
+  "CMakeFiles/Army_2.dir/Warlock.cpp.o"
+  "CMakeFiles/Army_2.dir/WarlockAtack.cpp.o"
+  "CMakeFiles/Army_2.dir/Demon.cpp.o"
+  "CMakeFiles/Army_2.dir/Necromancer.cpp.o"
+  "CMakeFiles/Army_2.dir/NecromancerAtack.cpp.o"
+  "CMakeFiles/Army_2.dir/NecromancerState.cpp.o"
   "Army_2.pdb"
   "Army_2"
 )

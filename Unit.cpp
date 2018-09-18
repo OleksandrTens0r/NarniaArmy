@@ -51,4 +51,9 @@ void Unit::show()
     std::cout << "HitPoints: " << this->state->getHitPoints() << std::endl;
 }
 
+Unit *Unit::createDeamon()
+{
+    return at->createDemon(this->state);
+}
+
 

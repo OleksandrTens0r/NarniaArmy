@@ -28,6 +28,17 @@ CMakeFiles/Army_2.dir/DamageSpellBook.cpp.o
 CMakeFiles/Army_2.dir/DamageSpells.cpp.o
  /Users/alex/Desktop/bws4/Army_2/DamageSpells.cpp
  /Users/alex/Desktop/bws4/Army_2/DamageSpells.h
+CMakeFiles/Army_2.dir/Demon.cpp.o
+ /Users/alex/Desktop/bws4/Army_2/BookOfHealingSpell.h
+ /Users/alex/Desktop/bws4/Army_2/DamageSpellBook.h
+ /Users/alex/Desktop/bws4/Army_2/DamageSpells.h
+ /Users/alex/Desktop/bws4/Army_2/Demon.cpp
+ /Users/alex/Desktop/bws4/Army_2/Demon.h
+ /Users/alex/Desktop/bws4/Army_2/HealingSpells.h
+ /Users/alex/Desktop/bws4/Army_2/IncorrectAction.h
+ /Users/alex/Desktop/bws4/Army_2/Unit.h
+ /Users/alex/Desktop/bws4/Army_2/UnitAtack.h
+ /Users/alex/Desktop/bws4/Army_2/UnitState.h
 CMakeFiles/Army_2.dir/Healer.cpp.o
  /Users/alex/Desktop/bws4/Army_2/BookOfHealingSpell.h
  /Users/alex/Desktop/bws4/Army_2/DamageSpellBook.h
@@ -62,6 +73,40 @@ CMakeFiles/Army_2.dir/HealingSpells.cpp.o
 CMakeFiles/Army_2.dir/IncorrectAction.cpp.o
  /Users/alex/Desktop/bws4/Army_2/IncorrectAction.cpp
  /Users/alex/Desktop/bws4/Army_2/IncorrectAction.h
+CMakeFiles/Army_2.dir/Necromancer.cpp.o
+ /Users/alex/Desktop/bws4/Army_2/BookOfHealingSpell.h
+ /Users/alex/Desktop/bws4/Army_2/DamageSpellBook.h
+ /Users/alex/Desktop/bws4/Army_2/DamageSpells.h
+ /Users/alex/Desktop/bws4/Army_2/HealingSpells.h
+ /Users/alex/Desktop/bws4/Army_2/IncorrectAction.h
+ /Users/alex/Desktop/bws4/Army_2/Necromancer.cpp
+ /Users/alex/Desktop/bws4/Army_2/Necromancer.h
+ /Users/alex/Desktop/bws4/Army_2/NecromancerAtack.h
+ /Users/alex/Desktop/bws4/Army_2/NecromancerState.h
+ /Users/alex/Desktop/bws4/Army_2/SpellCaster.h
+ /Users/alex/Desktop/bws4/Army_2/SpellCasterAtack.h
+ /Users/alex/Desktop/bws4/Army_2/SpellCasterState.h
+ /Users/alex/Desktop/bws4/Army_2/Unit.h
+ /Users/alex/Desktop/bws4/Army_2/UnitAtack.h
+ /Users/alex/Desktop/bws4/Army_2/UnitState.h
+CMakeFiles/Army_2.dir/NecromancerAtack.cpp.o
+ /Users/alex/Desktop/bws4/Army_2/BookOfHealingSpell.h
+ /Users/alex/Desktop/bws4/Army_2/DamageSpellBook.h
+ /Users/alex/Desktop/bws4/Army_2/DamageSpells.h
+ /Users/alex/Desktop/bws4/Army_2/HealingSpells.h
+ /Users/alex/Desktop/bws4/Army_2/IncorrectAction.h
+ /Users/alex/Desktop/bws4/Army_2/NecromancerAtack.cpp
+ /Users/alex/Desktop/bws4/Army_2/NecromancerAtack.h
+ /Users/alex/Desktop/bws4/Army_2/SpellCasterAtack.h
+ /Users/alex/Desktop/bws4/Army_2/SpellCasterState.h
+ /Users/alex/Desktop/bws4/Army_2/Unit.h
+ /Users/alex/Desktop/bws4/Army_2/UnitAtack.h
+ /Users/alex/Desktop/bws4/Army_2/UnitState.h
+CMakeFiles/Army_2.dir/NecromancerState.cpp.o
+ /Users/alex/Desktop/bws4/Army_2/NecromancerState.cpp
+ /Users/alex/Desktop/bws4/Army_2/NecromancerState.h
+ /Users/alex/Desktop/bws4/Army_2/SpellCasterState.h
+ /Users/alex/Desktop/bws4/Army_2/UnitState.h
 CMakeFiles/Army_2.dir/Priest.cpp.o
  /Users/alex/Desktop/bws4/Army_2/BookOfHealingSpell.h
  /Users/alex/Desktop/bws4/Army_2/DamageSpellBook.h
@@ -208,6 +253,36 @@ CMakeFiles/Army_2.dir/VampireState.cpp.o
  /Users/alex/Desktop/bws4/Army_2/UnitState.h
  /Users/alex/Desktop/bws4/Army_2/VampireState.cpp
  /Users/alex/Desktop/bws4/Army_2/VampireState.h
+CMakeFiles/Army_2.dir/Warlock.cpp.o
+ /Users/alex/Desktop/bws4/Army_2/BookOfHealingSpell.h
+ /Users/alex/Desktop/bws4/Army_2/DamageSpellBook.h
+ /Users/alex/Desktop/bws4/Army_2/DamageSpells.h
+ /Users/alex/Desktop/bws4/Army_2/Demon.h
+ /Users/alex/Desktop/bws4/Army_2/HealingSpells.h
+ /Users/alex/Desktop/bws4/Army_2/IncorrectAction.h
+ /Users/alex/Desktop/bws4/Army_2/SpellCaster.h
+ /Users/alex/Desktop/bws4/Army_2/SpellCasterAtack.h
+ /Users/alex/Desktop/bws4/Army_2/SpellCasterState.h
+ /Users/alex/Desktop/bws4/Army_2/Unit.h
+ /Users/alex/Desktop/bws4/Army_2/UnitAtack.h
+ /Users/alex/Desktop/bws4/Army_2/UnitState.h
+ /Users/alex/Desktop/bws4/Army_2/Warlock.cpp
+ /Users/alex/Desktop/bws4/Army_2/Warlock.h
+ /Users/alex/Desktop/bws4/Army_2/WarlockAtack.h
+CMakeFiles/Army_2.dir/WarlockAtack.cpp.o
+ /Users/alex/Desktop/bws4/Army_2/BookOfHealingSpell.h
+ /Users/alex/Desktop/bws4/Army_2/DamageSpellBook.h
+ /Users/alex/Desktop/bws4/Army_2/DamageSpells.h
+ /Users/alex/Desktop/bws4/Army_2/Demon.h
+ /Users/alex/Desktop/bws4/Army_2/HealingSpells.h
+ /Users/alex/Desktop/bws4/Army_2/IncorrectAction.h
+ /Users/alex/Desktop/bws4/Army_2/SpellCasterAtack.h
+ /Users/alex/Desktop/bws4/Army_2/SpellCasterState.h
+ /Users/alex/Desktop/bws4/Army_2/Unit.h
+ /Users/alex/Desktop/bws4/Army_2/UnitAtack.h
+ /Users/alex/Desktop/bws4/Army_2/UnitState.h
+ /Users/alex/Desktop/bws4/Army_2/WarlockAtack.cpp
+ /Users/alex/Desktop/bws4/Army_2/WarlockAtack.h
 CMakeFiles/Army_2.dir/Werewolf.cpp.o
  /Users/alex/Desktop/bws4/Army_2/BookOfHealingSpell.h
  /Users/alex/Desktop/bws4/Army_2/DamageSpellBook.h
@@ -275,10 +350,14 @@ CMakeFiles/Army_2.dir/main.cpp.o
  /Users/alex/Desktop/bws4/Army_2/BookOfHealingSpell.h
  /Users/alex/Desktop/bws4/Army_2/DamageSpellBook.h
  /Users/alex/Desktop/bws4/Army_2/DamageSpells.h
+ /Users/alex/Desktop/bws4/Army_2/Demon.h
  /Users/alex/Desktop/bws4/Army_2/Healer.h
  /Users/alex/Desktop/bws4/Army_2/HealerAtack.h
  /Users/alex/Desktop/bws4/Army_2/HealingSpells.h
  /Users/alex/Desktop/bws4/Army_2/IncorrectAction.h
+ /Users/alex/Desktop/bws4/Army_2/Necromancer.h
+ /Users/alex/Desktop/bws4/Army_2/NecromancerAtack.h
+ /Users/alex/Desktop/bws4/Army_2/NecromancerState.h
  /Users/alex/Desktop/bws4/Army_2/Rogue.h
  /Users/alex/Desktop/bws4/Army_2/Soldier.h
  /Users/alex/Desktop/bws4/Army_2/SpellCaster.h
@@ -290,6 +369,8 @@ CMakeFiles/Army_2.dir/main.cpp.o
  /Users/alex/Desktop/bws4/Army_2/Vampire.h
  /Users/alex/Desktop/bws4/Army_2/VampireAtack.h
  /Users/alex/Desktop/bws4/Army_2/VampireState.h
+ /Users/alex/Desktop/bws4/Army_2/Warlock.h
+ /Users/alex/Desktop/bws4/Army_2/WarlockAtack.h
  /Users/alex/Desktop/bws4/Army_2/Werewolf.h
  /Users/alex/Desktop/bws4/Army_2/WerewolfAtack.h
  /Users/alex/Desktop/bws4/Army_2/WerewolfState.h

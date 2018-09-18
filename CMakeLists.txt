@@ -62,4 +62,4 @@ add_executable(Army_2
         Wizard.cpp
         Wizard.h
         WizardAtack.cpp
-        WizardAtack.h)
+        WizardAtack.h Warlock.cpp Warlock.h WarlockAtack.cpp WarlockAtack.h Demon.cpp Demon.h Necromancer.cpp Necromancer.h NecromancerAtack.cpp NecromancerAtack.h NecromancerState.cpp NecromancerState.h)

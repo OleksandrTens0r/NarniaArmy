@@ -25,6 +25,7 @@ public:
     
     virtual void bite(Unit *unit);
     virtual void transformAndAtack(Unit *unit);
+    virtual Unit* createDeamon();
 
     virtual void show();
 };
