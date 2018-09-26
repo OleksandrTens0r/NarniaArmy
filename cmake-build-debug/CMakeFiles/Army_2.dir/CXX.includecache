@@ -6,6 +6,10 @@
 
 #IncludeRegexTransform: 
 
+/Users/alex/Desktop/bws4/Army_2/Berserker.cpp
+Berserker.h
+/Users/alex/Desktop/bws4/Army_2/Berserker.h
+
 /Users/alex/Desktop/bws4/Army_2/Berserker.h
 Unit.h
 /Users/alex/Desktop/bws4/Army_2/Unit.h
@@ -32,13 +36,25 @@ DamageSpells.h
 
 /Users/alex/Desktop/bws4/Army_2/DamageSpells.h
 
+/Users/alex/Desktop/bws4/Army_2/Demon.cpp
+Demon.h
+/Users/alex/Desktop/bws4/Army_2/Demon.h
+
 /Users/alex/Desktop/bws4/Army_2/Demon.h
 Unit.h
 /Users/alex/Desktop/bws4/Army_2/Unit.h
 
+/Users/alex/Desktop/bws4/Army_2/Healer.cpp
+Healer.h
+/Users/alex/Desktop/bws4/Army_2/Healer.h
+
 /Users/alex/Desktop/bws4/Army_2/Healer.h
 SpellCaster.h
 /Users/alex/Desktop/bws4/Army_2/SpellCaster.h
+HealerAtack.h
+/Users/alex/Desktop/bws4/Army_2/HealerAtack.h
+
+/Users/alex/Desktop/bws4/Army_2/HealerAtack.cpp
 HealerAtack.h
 /Users/alex/Desktop/bws4/Army_2/HealerAtack.h
 
@@ -48,15 +64,27 @@ SpellCasterAtack.h
 
 /Users/alex/Desktop/bws4/Army_2/HealingSpells.h
 
+/Users/alex/Desktop/bws4/Army_2/IncorrectAction.cpp
+IncorrectAction.h
+/Users/alex/Desktop/bws4/Army_2/IncorrectAction.h
+
 /Users/alex/Desktop/bws4/Army_2/IncorrectAction.h
 exception
 -
+
+/Users/alex/Desktop/bws4/Army_2/Necromancer.cpp
+Necromancer.h
+/Users/alex/Desktop/bws4/Army_2/Necromancer.h
 
 /Users/alex/Desktop/bws4/Army_2/Necromancer.h
 SpellCaster.h
 /Users/alex/Desktop/bws4/Army_2/SpellCaster.h
 NecromancerState.h
 /Users/alex/Desktop/bws4/Army_2/NecromancerState.h
+NecromancerAtack.h
+/Users/alex/Desktop/bws4/Army_2/NecromancerAtack.h
+
+/Users/alex/Desktop/bws4/Army_2/NecromancerAtack.cpp
 NecromancerAtack.h
 /Users/alex/Desktop/bws4/Army_2/NecromancerAtack.h
 
@@ -68,19 +96,65 @@ SpellCasterAtack.h
 SpellCasterState.h
 /Users/alex/Desktop/bws4/Army_2/SpellCasterState.h
 
+/Users/alex/Desktop/bws4/Army_2/Priest.cpp
+Priest.h
+/Users/alex/Desktop/bws4/Army_2/Priest.h
+
+/Users/alex/Desktop/bws4/Army_2/Priest.h
+SpellCaster.h
+/Users/alex/Desktop/bws4/Army_2/SpellCaster.h
+PriestArtack.h
+/Users/alex/Desktop/bws4/Army_2/PriestArtack.h
+
+/Users/alex/Desktop/bws4/Army_2/PriestArtack.cpp
+PriestArtack.h
+/Users/alex/Desktop/bws4/Army_2/PriestArtack.h
+
+/Users/alex/Desktop/bws4/Army_2/PriestArtack.h
+SpellCasterAtack.h
+/Users/alex/Desktop/bws4/Army_2/SpellCasterAtack.h
+
+/Users/alex/Desktop/bws4/Army_2/Rogue.cpp
+Rogue.h
+/Users/alex/Desktop/bws4/Army_2/Rogue.h
+RogueAtack.h
+/Users/alex/Desktop/bws4/Army_2/RogueAtack.h
+
 /Users/alex/Desktop/bws4/Army_2/Rogue.h
 Unit.h
 /Users/alex/Desktop/bws4/Army_2/Unit.h
 
+/Users/alex/Desktop/bws4/Army_2/RogueAtack.cpp
+RogueAtack.h
+/Users/alex/Desktop/bws4/Army_2/RogueAtack.h
+
+/Users/alex/Desktop/bws4/Army_2/RogueAtack.h
+UnitAtack.h
+/Users/alex/Desktop/bws4/Army_2/UnitAtack.h
+Unit.h
+/Users/alex/Desktop/bws4/Army_2/Unit.h
+
+/Users/alex/Desktop/bws4/Army_2/Soldier.cpp
+Soldier.h
+/Users/alex/Desktop/bws4/Army_2/Soldier.h
+
 /Users/alex/Desktop/bws4/Army_2/Soldier.h
 Unit.h
 /Users/alex/Desktop/bws4/Army_2/Unit.h
+
+/Users/alex/Desktop/bws4/Army_2/SpellCaster.cpp
+SpellCaster.h
+/Users/alex/Desktop/bws4/Army_2/SpellCaster.h
 
 /Users/alex/Desktop/bws4/Army_2/SpellCaster.h
 Unit.h
 /Users/alex/Desktop/bws4/Army_2/Unit.h
 SpellCasterState.h
 /Users/alex/Desktop/bws4/Army_2/SpellCasterState.h
+SpellCasterAtack.h
+/Users/alex/Desktop/bws4/Army_2/SpellCasterAtack.h
+
+/Users/alex/Desktop/bws4/Army_2/SpellCasterAtack.cpp
 SpellCasterAtack.h
 /Users/alex/Desktop/bws4/Army_2/SpellCasterAtack.h
 
@@ -96,6 +170,10 @@ SpellCasterState.h
 UnitState.h
 /Users/alex/Desktop/bws4/Army_2/UnitState.h
 
+/Users/alex/Desktop/bws4/Army_2/Unit.cpp
+Unit.h
+/Users/alex/Desktop/bws4/Army_2/Unit.h
+
 /Users/alex/Desktop/bws4/Army_2/Unit.h
 UnitState.h
 /Users/alex/Desktop/bws4/Army_2/UnitState.h
@@ -105,6 +183,10 @@ DamageSpellBook.h
 /Users/alex/Desktop/bws4/Army_2/DamageSpellBook.h
 BookOfHealingSpell.h
 /Users/alex/Desktop/bws4/Army_2/BookOfHealingSpell.h
+
+/Users/alex/Desktop/bws4/Army_2/UnitAtack.cpp
+UnitAtack.h
+/Users/alex/Desktop/bws4/Army_2/UnitAtack.h
 
 /Users/alex/Desktop/bws4/Army_2/UnitAtack.h
 UnitState.h
@@ -124,6 +206,10 @@ string
 list
 /Users/alex/Desktop/bws4/Army_2/list
 
+/Users/alex/Desktop/bws4/Army_2/Vampire.cpp
+Vampire.h
+/Users/alex/Desktop/bws4/Army_2/Vampire.h
+
 /Users/alex/Desktop/bws4/Army_2/Vampire.h
 Unit.h
 /Users/alex/Desktop/bws4/Army_2/Unit.h
@@ -131,6 +217,20 @@ VampireAtack.h
 /Users/alex/Desktop/bws4/Army_2/VampireAtack.h
 VampireState.h
 /Users/alex/Desktop/bws4/Army_2/VampireState.h
+
+/Users/alex/Desktop/bws4/Army_2/VampireAtack.cpp
+VampireState.h
+/Users/alex/Desktop/bws4/Army_2/VampireState.h
+VampireAtack.h
+/Users/alex/Desktop/bws4/Army_2/VampireAtack.h
+Unit.h
+/Users/alex/Desktop/bws4/Army_2/Unit.h
+Werewolf.h
+/Users/alex/Desktop/bws4/Army_2/Werewolf.h
+Vampire.h
+/Users/alex/Desktop/bws4/Army_2/Vampire.h
+typeinfo
+-
 
 /Users/alex/Desktop/bws4/Army_2/VampireAtack.h
 UnitAtack.h
@@ -140,9 +240,17 @@ UnitAtack.h
 UnitState.h
 /Users/alex/Desktop/bws4/Army_2/UnitState.h
 
+/Users/alex/Desktop/bws4/Army_2/Warlock.cpp
+Warlock.h
+/Users/alex/Desktop/bws4/Army_2/Warlock.h
+
 /Users/alex/Desktop/bws4/Army_2/Warlock.h
 SpellCaster.h
 /Users/alex/Desktop/bws4/Army_2/SpellCaster.h
+WarlockAtack.h
+/Users/alex/Desktop/bws4/Army_2/WarlockAtack.h
+
+/Users/alex/Desktop/bws4/Army_2/WarlockAtack.cpp
 WarlockAtack.h
 /Users/alex/Desktop/bws4/Army_2/WarlockAtack.h
 
@@ -154,6 +262,10 @@ vector
 SpellCasterAtack.h
 /Users/alex/Desktop/bws4/Army_2/SpellCasterAtack.h
 
+/Users/alex/Desktop/bws4/Army_2/Werewolf.cpp
+Werewolf.h
+/Users/alex/Desktop/bws4/Army_2/Werewolf.h
+
 /Users/alex/Desktop/bws4/Army_2/Werewolf.h
 Unit.h
 /Users/alex/Desktop/bws4/Army_2/Unit.h
@@ -161,6 +273,20 @@ WerewolfState.h
 /Users/alex/Desktop/bws4/Army_2/WerewolfState.h
 WerewolfAtack.h
 /Users/alex/Desktop/bws4/Army_2/WerewolfAtack.h
+
+/Users/alex/Desktop/bws4/Army_2/WerewolfAtack.cpp
+WerewolfAtack.h
+/Users/alex/Desktop/bws4/Army_2/WerewolfAtack.h
+WerewolfState.h
+/Users/alex/Desktop/bws4/Army_2/WerewolfState.h
+Vampire.h
+/Users/alex/Desktop/bws4/Army_2/Vampire.h
+Unit.h
+/Users/alex/Desktop/bws4/Army_2/Unit.h
+Werewolf.h
+/Users/alex/Desktop/bws4/Army_2/Werewolf.h
+typeinfo
+-
 
 /Users/alex/Desktop/bws4/Army_2/WerewolfAtack.h
 UnitAtack.h
@@ -170,9 +296,17 @@ UnitAtack.h
 UnitState.h
 /Users/alex/Desktop/bws4/Army_2/UnitState.h
 
+/Users/alex/Desktop/bws4/Army_2/Wizard.cpp
+Wizard.h
+/Users/alex/Desktop/bws4/Army_2/Wizard.h
+
 /Users/alex/Desktop/bws4/Army_2/Wizard.h
 SpellCaster.h
 /Users/alex/Desktop/bws4/Army_2/SpellCaster.h
+WizardAtack.h
+/Users/alex/Desktop/bws4/Army_2/WizardAtack.h
+
+/Users/alex/Desktop/bws4/Army_2/WizardAtack.cpp
 WizardAtack.h
 /Users/alex/Desktop/bws4/Army_2/WizardAtack.h
 

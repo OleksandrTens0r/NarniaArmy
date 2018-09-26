@@ -10,12 +10,19 @@
 #include "Warlock.h"
 #include "Necromancer.h"
 
+// Spells for mag
+
 //WATER_VORTEX,
 //FIRE_RING,
 //FRANTIC_COLD,
 //PIILLAR_OF_FIRE,
 //LIGTHNING_TRIDENT,
 
+//LIFE_ENERGY_SPELL,
+//DAWN_OF_LIFE,
+//WHIRLWIND_OF_LIGHT,
+//ENHAEMON,
+//SANTINO,
 
 
 int main()
