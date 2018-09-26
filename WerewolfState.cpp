@@ -13,7 +13,4 @@ WerewolfState::WerewolfState(const std::string &name, int hitPointsLimit, int at
     this->setForm(HUMAN);
 }
 
-WerewolfState::~WerewolfState()
-{
-
-}
+WerewolfState::~WerewolfState() = default;

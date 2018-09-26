@@ -29,11 +29,6 @@ int main()
 {
     Soldier* soldier1 = new Soldier("Aristarh", 200, 200);
     Soldier* soldier2 = new Soldier("Bomm", 100, 10);
-//    Soldier* soldier3 = new Soldier("Aristarh2", 100, 10);
-//    Vampire* vampire = new Vampire("Dracule", 200, 50);
-//    Rogue* rogue = new Rogue("Papa_Karlo", 300, 30);
-//    Werewolf* werewolf = new Werewolf("Taylor", 200, 20);
-//    Berserker* berserker = new Berserker("Bekerbelli", 200, 100);
     Wizard* wizard = new Wizard("Gendolf", 200, 100, 100, 1000);
     Healer* healer = new Healer("Shaman", 200, 100, 100, 1000);
     Warlock* warlock = new Warlock("Shaman", 200, 100, 100, 1000);
@@ -47,43 +42,17 @@ int main()
 
     try
     {
-        necromancer->makeDamage(soldier1);
+       warlock->makeDamage(soldier1);
+       healer->heal(soldier1, DAWN_OF_LIFE);
+       healer->heal(soldier1, SANTINO);
+       warlock->show();
+       soldier1->show();
 
-        necromancer->show();
-
-        std::cout << "_________________________________" << std::endl;
-
-        soldier1->show();
-
-        std::cout << "_________________________________" << std::endl;
-        std::cout << "_________________________________" << std::endl;
-
-        necromancer->makeDamage(soldier1);
-
-        necromancer->show();
-
-        std::cout << "_________________________________" << std::endl;
-
-        soldier1->show();
-
-        std::cout << "_________________________________" << std::endl;
-        std::cout << "_________________________________" << std::endl;
     }
     catch(std::exception &ex)
     {
         std::cout << ex.what() << std::endl;
     }
 
-
-//    std::cout <<  *healer << std::endl;
-//    std::cout << "--------------------------------" << std::endl;
-//    std::cout <<  *wizard << std::endl;
-
-    
-    
-//    std::cout << "--------------------------------" << std::endl;
-//    std::cout << "--------------------------------" << std::endl;
-//
-//
     return 0;
 }

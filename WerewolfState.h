@@ -11,7 +11,8 @@ class WerewolfState : public UnitState
 {
 public:
     WerewolfState(const std::string &name, int hitPointsLimit, int atackPower);
-    virtual ~WerewolfState();
+
+    ~WerewolfState() override;
 };
 
 
