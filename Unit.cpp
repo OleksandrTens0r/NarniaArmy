@@ -55,5 +55,3 @@ Unit *Unit::createDeamon()
 {
     return at->createDemon(this->state);
 }
-
-

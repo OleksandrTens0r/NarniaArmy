@@ -12,7 +12,7 @@
 class Priest : public SpellCaster
 {
 public:
-    Priest(const std::string &name, int hitPointsLimit, int atackPower, int magicPower, int manaLimit);
+    Priest(const std::string &name, int hitPointsLimit, int atackPower, int manaLimit);
 
     ~Priest() override;
 };

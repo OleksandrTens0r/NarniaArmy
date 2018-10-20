@@ -11,7 +11,7 @@
 class Warlock : public SpellCaster
 {
 public:
-    Warlock(const std::string &name, int hitPointsLimit, int atackPower, int magicPower, int manaLimit);
+    Warlock(const std::string &name, int hitPointsLimit, int atackPower, int manaLimit);
 
     ~Warlock() override;
 };

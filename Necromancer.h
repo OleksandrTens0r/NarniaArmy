@@ -12,7 +12,7 @@
 class Necromancer : public SpellCaster
 {
 public:
-    Necromancer(const std::string &name, int hitPointsLimit, int atackPower, int magicPower, int manaLimit);
+    Necromancer(const std::string &name, int hitPointsLimit, int atackPower, int manaLimit);
 
     ~Necromancer() override;
 };

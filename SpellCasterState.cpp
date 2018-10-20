@@ -4,9 +4,8 @@
 
 #include "SpellCasterState.h"
 
-SpellCasterState::SpellCasterState(const std::string &name, int hitPointsLimit ,int atackPower, int magicPower, int manaLimit)
+SpellCasterState::SpellCasterState(const std::string &name, int hitPointsLimit ,int atackPower, int manaLimit)
 {
-    this->magicPower = magicPower;
     this->manaLimit = manaLimit;
     this->manaReserve = manaLimit;
     this->setName(name);
@@ -17,11 +16,6 @@ SpellCasterState::SpellCasterState(const std::string &name, int hitPointsLimit ,
 }
 
 SpellCasterState::~SpellCasterState() = default;
-
-void SpellCasterState::setMagicPower(int magicPower)
-{
-    SpellCasterState::magicPower = magicPower;
-}
 
 void SpellCasterState::setManaLimit(int manaLimit)
 {

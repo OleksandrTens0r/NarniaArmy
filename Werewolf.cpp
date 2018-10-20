@@ -13,4 +13,10 @@ Werewolf::Werewolf(const std::string &name, int hitPointsLimit, int atackPower) 
     at = new WerewolfAtack();
 }
 
+void Werewolf::show()
+{
+    Unit::show();
+    std::cout << "Form: "<< this->state->getForm() << std::endl;
+}
+
 Werewolf::~Werewolf() = default;

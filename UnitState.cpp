@@ -107,16 +107,6 @@ void UnitState::setForm(Form form)
 
 // For spellCaster Units
 
-int UnitState::getMagicPower() const
-{
-    return magicPower;
-}
-
-void UnitState::setMagicPower(int magicPower)
-{
-    UnitState::magicPower = 0;
-}
-
 int UnitState::getManaLimit() const
 {
     return manaLimit;

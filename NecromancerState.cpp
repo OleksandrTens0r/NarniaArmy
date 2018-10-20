@@ -4,8 +4,8 @@
 
 #include "NecromancerState.h"
 
-NecromancerState::NecromancerState(const std::string &name, int hitPointsLimit, int atackPower, int magicPower, int manaLimit)
-                                   : SpellCasterState(name, hitPointsLimit, atackPower, magicPower, manaLimit)
+NecromancerState::NecromancerState(const std::string &name, int hitPointsLimit, int atackPower, int manaLimit)
+                                   : SpellCasterState(name, hitPointsLimit, atackPower, manaLimit)
 {
 
 }

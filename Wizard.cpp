@@ -4,8 +4,8 @@
 
 #include "Wizard.h"
 
-Wizard::Wizard(const std::string &name, int hitPointsLimit, int atackPower, int magicPower, int manaLimit)
-        : SpellCaster(name, hitPointsLimit, atackPower, magicPower, manaLimit)
+Wizard::Wizard(const std::string &name, int hitPointsLimit, int atackPower, int manaLimit)
+        : SpellCaster(name, hitPointsLimit, atackPower, manaLimit)
 {
     delete at;
 

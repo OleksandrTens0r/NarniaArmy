@@ -15,6 +15,8 @@ public:
     Werewolf(const std::string &name, int hitPointsLimit, int atackPower);
 
     ~Werewolf() override;
+
+    void show() override;
 };
 
 

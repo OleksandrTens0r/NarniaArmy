@@ -10,7 +10,7 @@
 class NecromancerState : public SpellCasterState
 {
 public:
-    NecromancerState(const std::string &name, int hitPointsLimit, int atackPower, int magicPower, int manaLimit);
+    NecromancerState(const std::string &name, int hitPointsLimit, int atackPower, int manaLimit);
 
     ~NecromancerState() override;
 

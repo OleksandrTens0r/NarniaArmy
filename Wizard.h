@@ -12,7 +12,7 @@
 class Wizard : public SpellCaster
 {
 public:
-    Wizard(const std::string &name, int hitPointsLimit, int atackPower, int magicPower, int manaLimit);
+    Wizard(const std::string &name, int hitPointsLimit, int atackPower, int manaLimit);
 
     ~Wizard() override;
 };

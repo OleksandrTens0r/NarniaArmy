@@ -4,8 +4,8 @@
 
 #include "Priest.h"
 
-Priest::Priest(const std::string &name, int hitPointsLimit, int atackPower, int magicPower, int manaLimit)
-        : SpellCaster(name, hitPointsLimit, atackPower, magicPower, manaLimit)
+Priest::Priest(const std::string &name, int hitPointsLimit, int atackPower, int manaLimit)
+        : SpellCaster(name, hitPointsLimit, atackPower, manaLimit)
 {
     delete at;
 

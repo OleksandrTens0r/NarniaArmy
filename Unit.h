@@ -11,6 +11,9 @@
 
 class Unit
 {
+private:
+    Unit(const Unit& unit);
+    Unit& operator=(const Unit& unit);
 protected:
     UnitState* state;
     UnitAtack* at;

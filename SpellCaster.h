@@ -13,8 +13,11 @@
 class SpellCaster : public Unit
 {
 public:
-    SpellCaster(const std::string &name, int hitPointsLimit ,int atackPower, int magicPower, int manaLimit);
-    virtual ~SpellCaster() = 0;
+    SpellCaster(const std::string &name, int hitPointsLimit ,int atackPower, int manaLimit);
+
+    ~SpellCaster() override = 0;
+
+    void show() override;
 };
 
 

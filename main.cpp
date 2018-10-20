@@ -10,43 +10,52 @@
 #include "Warlock.h"
 #include "Necromancer.h"
 
-// Spells for mag
+//-------------
+// Read Me
+//-------------
+//
+//Any unit takes at least 3 parameters
+//
+//Unit(const std::string &name, int hitPointsLimit, int atackPower);
+//
+//Mag takes 4 parameters
+//
+//SpellCaster(const std::string &name, int hitPointsLimit ,int atackPower, int manaLimit);
+//
+// if you want to use magic attack you must transfer one of kind spells such as:
+//
+//Combat Spells
+//
+//WATER_VORTEX - needMana = 100 // damage = 100
+//FIRE_RING - needMana = 70 // damage = 70
+//FRANTIC_COLD - needMana = 300 ...
+//PIILLAR_OF_FIRE - needMana = 200 ...
+//LIGTHNING_TRIDENT - needMana = 500 ...
+//
+// and if you want to heal some unit you must transfer one of kind healing spells
+//
+//Healing Spells
+//
+//LIFE_ENERGY_SPELL - needMana = 50, health = 50
+//DAWN_OF_LIFE - needMana = 70 ...
+//WHIRLWIND_OF_LIGHT - needMana = 100 ...
+//ENHAEMON needMana = 200 ...
+//SANTINO - needMana = 500 ...
 
-//WATER_VORTEX,
-//FIRE_RING,
-//FRANTIC_COLD,
-//PIILLAR_OF_FIRE,
-//LIGTHNING_TRIDENT,
+// (mana == damage) - true
 
-//LIFE_ENERGY_SPELL,
-//DAWN_OF_LIFE,
-//WHIRLWIND_OF_LIGHT,
-//ENHAEMON,
-//SANTINO,
 
 
 int main()
 {
-    Soldier* soldier1 = new Soldier("Aristarh", 200, 200);
-    Soldier* soldier2 = new Soldier("Bomm", 100, 10);
-    Wizard* wizard = new Wizard("Gendolf", 200, 100, 100, 1000);
-    Healer* healer = new Healer("Shaman", 200, 100, 100, 1000);
-    Warlock* warlock = new Warlock("Shaman", 200, 100, 100, 1000);
-    Necromancer* necromancer = new Necromancer("Kell-Tyzzer", 200, 100, 100, 1000);
-    //vampire->transformAndAtack(soldier1);
-
-    //berserker->bite(soldier1);
-
-
-    std::cout << "_________________________________" << std::endl;
+    Soldier* soldier = new Soldier("Aristarh", 1000, 200);
+    Wizard* wizard = new Wizard("Gendolf", 200, 100, 1000);
+    Healer* healer = new Healer("Shaman", 200, 100, 1000);
+    Warlock* warlock = new Warlock("Hs", 200, 100, 1000);
+    Necromancer* necromancer = new Necromancer("Kell-Tyzzer", 200, 100, 1000);
 
     try
     {
-       warlock->makeDamage(soldier1);
-       healer->heal(soldier1, DAWN_OF_LIFE);
-       healer->heal(soldier1, SANTINO);
-       warlock->show();
-       soldier1->show();
 
     }
     catch(std::exception &ex)

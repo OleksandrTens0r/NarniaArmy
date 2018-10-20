@@ -43,10 +43,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/alex/Desktop/bws4/Army_2
+CMAKE_SOURCE_DIR = /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/alex/Desktop/bws4/Army_2/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Army_2.dir/depend.make
@@ -59,458 +59,458 @@ include CMakeFiles/Army_2.dir/flags.make
 
 CMakeFiles/Army_2.dir/Berserker.cpp.o: CMakeFiles/Army_2.dir/flags.make
 CMakeFiles/Army_2.dir/Berserker.cpp.o: ../Berserker.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/bws4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Army_2.dir/Berserker.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/Berserker.cpp.o -c /Users/alex/Desktop/bws4/Army_2/Berserker.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Army_2.dir/Berserker.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/Berserker.cpp.o -c /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/Berserker.cpp
 
 CMakeFiles/Army_2.dir/Berserker.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Army_2.dir/Berserker.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/bws4/Army_2/Berserker.cpp > CMakeFiles/Army_2.dir/Berserker.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/Berserker.cpp > CMakeFiles/Army_2.dir/Berserker.cpp.i
 
 CMakeFiles/Army_2.dir/Berserker.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Army_2.dir/Berserker.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/bws4/Army_2/Berserker.cpp -o CMakeFiles/Army_2.dir/Berserker.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/Berserker.cpp -o CMakeFiles/Army_2.dir/Berserker.cpp.s
 
 CMakeFiles/Army_2.dir/BerserkerState.cpp.o: CMakeFiles/Army_2.dir/flags.make
 CMakeFiles/Army_2.dir/BerserkerState.cpp.o: ../BerserkerState.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/bws4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Army_2.dir/BerserkerState.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/BerserkerState.cpp.o -c /Users/alex/Desktop/bws4/Army_2/BerserkerState.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Army_2.dir/BerserkerState.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/BerserkerState.cpp.o -c /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/BerserkerState.cpp
 
 CMakeFiles/Army_2.dir/BerserkerState.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Army_2.dir/BerserkerState.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/bws4/Army_2/BerserkerState.cpp > CMakeFiles/Army_2.dir/BerserkerState.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/BerserkerState.cpp > CMakeFiles/Army_2.dir/BerserkerState.cpp.i
 
 CMakeFiles/Army_2.dir/BerserkerState.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Army_2.dir/BerserkerState.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/bws4/Army_2/BerserkerState.cpp -o CMakeFiles/Army_2.dir/BerserkerState.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/BerserkerState.cpp -o CMakeFiles/Army_2.dir/BerserkerState.cpp.s
 
 CMakeFiles/Army_2.dir/BookOfHealingSpell.cpp.o: CMakeFiles/Army_2.dir/flags.make
 CMakeFiles/Army_2.dir/BookOfHealingSpell.cpp.o: ../BookOfHealingSpell.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/bws4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Army_2.dir/BookOfHealingSpell.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/BookOfHealingSpell.cpp.o -c /Users/alex/Desktop/bws4/Army_2/BookOfHealingSpell.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Army_2.dir/BookOfHealingSpell.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/BookOfHealingSpell.cpp.o -c /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/BookOfHealingSpell.cpp
 
 CMakeFiles/Army_2.dir/BookOfHealingSpell.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Army_2.dir/BookOfHealingSpell.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/bws4/Army_2/BookOfHealingSpell.cpp > CMakeFiles/Army_2.dir/BookOfHealingSpell.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/BookOfHealingSpell.cpp > CMakeFiles/Army_2.dir/BookOfHealingSpell.cpp.i
 
 CMakeFiles/Army_2.dir/BookOfHealingSpell.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Army_2.dir/BookOfHealingSpell.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/bws4/Army_2/BookOfHealingSpell.cpp -o CMakeFiles/Army_2.dir/BookOfHealingSpell.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/BookOfHealingSpell.cpp -o CMakeFiles/Army_2.dir/BookOfHealingSpell.cpp.s
 
 CMakeFiles/Army_2.dir/DamageSpellBook.cpp.o: CMakeFiles/Army_2.dir/flags.make
 CMakeFiles/Army_2.dir/DamageSpellBook.cpp.o: ../DamageSpellBook.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/bws4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Army_2.dir/DamageSpellBook.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/DamageSpellBook.cpp.o -c /Users/alex/Desktop/bws4/Army_2/DamageSpellBook.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Army_2.dir/DamageSpellBook.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/DamageSpellBook.cpp.o -c /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/DamageSpellBook.cpp
 
 CMakeFiles/Army_2.dir/DamageSpellBook.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Army_2.dir/DamageSpellBook.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/bws4/Army_2/DamageSpellBook.cpp > CMakeFiles/Army_2.dir/DamageSpellBook.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/DamageSpellBook.cpp > CMakeFiles/Army_2.dir/DamageSpellBook.cpp.i
 
 CMakeFiles/Army_2.dir/DamageSpellBook.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Army_2.dir/DamageSpellBook.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/bws4/Army_2/DamageSpellBook.cpp -o CMakeFiles/Army_2.dir/DamageSpellBook.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/DamageSpellBook.cpp -o CMakeFiles/Army_2.dir/DamageSpellBook.cpp.s
 
 CMakeFiles/Army_2.dir/DamageSpells.cpp.o: CMakeFiles/Army_2.dir/flags.make
 CMakeFiles/Army_2.dir/DamageSpells.cpp.o: ../DamageSpells.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/bws4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Army_2.dir/DamageSpells.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/DamageSpells.cpp.o -c /Users/alex/Desktop/bws4/Army_2/DamageSpells.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Army_2.dir/DamageSpells.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/DamageSpells.cpp.o -c /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/DamageSpells.cpp
 
 CMakeFiles/Army_2.dir/DamageSpells.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Army_2.dir/DamageSpells.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/bws4/Army_2/DamageSpells.cpp > CMakeFiles/Army_2.dir/DamageSpells.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/DamageSpells.cpp > CMakeFiles/Army_2.dir/DamageSpells.cpp.i
 
 CMakeFiles/Army_2.dir/DamageSpells.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Army_2.dir/DamageSpells.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/bws4/Army_2/DamageSpells.cpp -o CMakeFiles/Army_2.dir/DamageSpells.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/DamageSpells.cpp -o CMakeFiles/Army_2.dir/DamageSpells.cpp.s
 
 CMakeFiles/Army_2.dir/Healer.cpp.o: CMakeFiles/Army_2.dir/flags.make
 CMakeFiles/Army_2.dir/Healer.cpp.o: ../Healer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/bws4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Army_2.dir/Healer.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/Healer.cpp.o -c /Users/alex/Desktop/bws4/Army_2/Healer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Army_2.dir/Healer.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/Healer.cpp.o -c /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/Healer.cpp
 
 CMakeFiles/Army_2.dir/Healer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Army_2.dir/Healer.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/bws4/Army_2/Healer.cpp > CMakeFiles/Army_2.dir/Healer.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/Healer.cpp > CMakeFiles/Army_2.dir/Healer.cpp.i
 
 CMakeFiles/Army_2.dir/Healer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Army_2.dir/Healer.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/bws4/Army_2/Healer.cpp -o CMakeFiles/Army_2.dir/Healer.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/Healer.cpp -o CMakeFiles/Army_2.dir/Healer.cpp.s
 
 CMakeFiles/Army_2.dir/HealerAtack.cpp.o: CMakeFiles/Army_2.dir/flags.make
 CMakeFiles/Army_2.dir/HealerAtack.cpp.o: ../HealerAtack.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/bws4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Army_2.dir/HealerAtack.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/HealerAtack.cpp.o -c /Users/alex/Desktop/bws4/Army_2/HealerAtack.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Army_2.dir/HealerAtack.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/HealerAtack.cpp.o -c /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/HealerAtack.cpp
 
 CMakeFiles/Army_2.dir/HealerAtack.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Army_2.dir/HealerAtack.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/bws4/Army_2/HealerAtack.cpp > CMakeFiles/Army_2.dir/HealerAtack.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/HealerAtack.cpp > CMakeFiles/Army_2.dir/HealerAtack.cpp.i
 
 CMakeFiles/Army_2.dir/HealerAtack.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Army_2.dir/HealerAtack.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/bws4/Army_2/HealerAtack.cpp -o CMakeFiles/Army_2.dir/HealerAtack.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/HealerAtack.cpp -o CMakeFiles/Army_2.dir/HealerAtack.cpp.s
 
 CMakeFiles/Army_2.dir/HealingSpells.cpp.o: CMakeFiles/Army_2.dir/flags.make
 CMakeFiles/Army_2.dir/HealingSpells.cpp.o: ../HealingSpells.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/bws4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Army_2.dir/HealingSpells.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/HealingSpells.cpp.o -c /Users/alex/Desktop/bws4/Army_2/HealingSpells.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Army_2.dir/HealingSpells.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/HealingSpells.cpp.o -c /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/HealingSpells.cpp
 
 CMakeFiles/Army_2.dir/HealingSpells.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Army_2.dir/HealingSpells.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/bws4/Army_2/HealingSpells.cpp > CMakeFiles/Army_2.dir/HealingSpells.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/HealingSpells.cpp > CMakeFiles/Army_2.dir/HealingSpells.cpp.i
 
 CMakeFiles/Army_2.dir/HealingSpells.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Army_2.dir/HealingSpells.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/bws4/Army_2/HealingSpells.cpp -o CMakeFiles/Army_2.dir/HealingSpells.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/HealingSpells.cpp -o CMakeFiles/Army_2.dir/HealingSpells.cpp.s
 
 CMakeFiles/Army_2.dir/IncorrectAction.cpp.o: CMakeFiles/Army_2.dir/flags.make
 CMakeFiles/Army_2.dir/IncorrectAction.cpp.o: ../IncorrectAction.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/bws4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Army_2.dir/IncorrectAction.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/IncorrectAction.cpp.o -c /Users/alex/Desktop/bws4/Army_2/IncorrectAction.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Army_2.dir/IncorrectAction.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/IncorrectAction.cpp.o -c /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/IncorrectAction.cpp
 
 CMakeFiles/Army_2.dir/IncorrectAction.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Army_2.dir/IncorrectAction.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/bws4/Army_2/IncorrectAction.cpp > CMakeFiles/Army_2.dir/IncorrectAction.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/IncorrectAction.cpp > CMakeFiles/Army_2.dir/IncorrectAction.cpp.i
 
 CMakeFiles/Army_2.dir/IncorrectAction.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Army_2.dir/IncorrectAction.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/bws4/Army_2/IncorrectAction.cpp -o CMakeFiles/Army_2.dir/IncorrectAction.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/IncorrectAction.cpp -o CMakeFiles/Army_2.dir/IncorrectAction.cpp.s
 
 CMakeFiles/Army_2.dir/main.cpp.o: CMakeFiles/Army_2.dir/flags.make
 CMakeFiles/Army_2.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/bws4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Army_2.dir/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/main.cpp.o -c /Users/alex/Desktop/bws4/Army_2/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Army_2.dir/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/main.cpp.o -c /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/main.cpp
 
 CMakeFiles/Army_2.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Army_2.dir/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/bws4/Army_2/main.cpp > CMakeFiles/Army_2.dir/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/main.cpp > CMakeFiles/Army_2.dir/main.cpp.i
 
 CMakeFiles/Army_2.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Army_2.dir/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/bws4/Army_2/main.cpp -o CMakeFiles/Army_2.dir/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/main.cpp -o CMakeFiles/Army_2.dir/main.cpp.s
 
 CMakeFiles/Army_2.dir/Priest.cpp.o: CMakeFiles/Army_2.dir/flags.make
 CMakeFiles/Army_2.dir/Priest.cpp.o: ../Priest.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/bws4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/Army_2.dir/Priest.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/Priest.cpp.o -c /Users/alex/Desktop/bws4/Army_2/Priest.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/Army_2.dir/Priest.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/Priest.cpp.o -c /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/Priest.cpp
 
 CMakeFiles/Army_2.dir/Priest.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Army_2.dir/Priest.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/bws4/Army_2/Priest.cpp > CMakeFiles/Army_2.dir/Priest.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/Priest.cpp > CMakeFiles/Army_2.dir/Priest.cpp.i
 
 CMakeFiles/Army_2.dir/Priest.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Army_2.dir/Priest.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/bws4/Army_2/Priest.cpp -o CMakeFiles/Army_2.dir/Priest.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/Priest.cpp -o CMakeFiles/Army_2.dir/Priest.cpp.s
 
 CMakeFiles/Army_2.dir/PriestArtack.cpp.o: CMakeFiles/Army_2.dir/flags.make
 CMakeFiles/Army_2.dir/PriestArtack.cpp.o: ../PriestArtack.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/bws4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/Army_2.dir/PriestArtack.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/PriestArtack.cpp.o -c /Users/alex/Desktop/bws4/Army_2/PriestArtack.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/Army_2.dir/PriestArtack.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/PriestArtack.cpp.o -c /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/PriestArtack.cpp
 
 CMakeFiles/Army_2.dir/PriestArtack.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Army_2.dir/PriestArtack.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/bws4/Army_2/PriestArtack.cpp > CMakeFiles/Army_2.dir/PriestArtack.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/PriestArtack.cpp > CMakeFiles/Army_2.dir/PriestArtack.cpp.i
 
 CMakeFiles/Army_2.dir/PriestArtack.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Army_2.dir/PriestArtack.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/bws4/Army_2/PriestArtack.cpp -o CMakeFiles/Army_2.dir/PriestArtack.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/PriestArtack.cpp -o CMakeFiles/Army_2.dir/PriestArtack.cpp.s
 
 CMakeFiles/Army_2.dir/Rogue.cpp.o: CMakeFiles/Army_2.dir/flags.make
 CMakeFiles/Army_2.dir/Rogue.cpp.o: ../Rogue.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/bws4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/Army_2.dir/Rogue.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/Rogue.cpp.o -c /Users/alex/Desktop/bws4/Army_2/Rogue.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/Army_2.dir/Rogue.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/Rogue.cpp.o -c /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/Rogue.cpp
 
 CMakeFiles/Army_2.dir/Rogue.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Army_2.dir/Rogue.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/bws4/Army_2/Rogue.cpp > CMakeFiles/Army_2.dir/Rogue.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/Rogue.cpp > CMakeFiles/Army_2.dir/Rogue.cpp.i
 
 CMakeFiles/Army_2.dir/Rogue.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Army_2.dir/Rogue.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/bws4/Army_2/Rogue.cpp -o CMakeFiles/Army_2.dir/Rogue.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/Rogue.cpp -o CMakeFiles/Army_2.dir/Rogue.cpp.s
 
 CMakeFiles/Army_2.dir/RogueAtack.cpp.o: CMakeFiles/Army_2.dir/flags.make
 CMakeFiles/Army_2.dir/RogueAtack.cpp.o: ../RogueAtack.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/bws4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/Army_2.dir/RogueAtack.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/RogueAtack.cpp.o -c /Users/alex/Desktop/bws4/Army_2/RogueAtack.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/Army_2.dir/RogueAtack.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/RogueAtack.cpp.o -c /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/RogueAtack.cpp
 
 CMakeFiles/Army_2.dir/RogueAtack.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Army_2.dir/RogueAtack.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/bws4/Army_2/RogueAtack.cpp > CMakeFiles/Army_2.dir/RogueAtack.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/RogueAtack.cpp > CMakeFiles/Army_2.dir/RogueAtack.cpp.i
 
 CMakeFiles/Army_2.dir/RogueAtack.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Army_2.dir/RogueAtack.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/bws4/Army_2/RogueAtack.cpp -o CMakeFiles/Army_2.dir/RogueAtack.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/RogueAtack.cpp -o CMakeFiles/Army_2.dir/RogueAtack.cpp.s
 
 CMakeFiles/Army_2.dir/Soldier.cpp.o: CMakeFiles/Army_2.dir/flags.make
 CMakeFiles/Army_2.dir/Soldier.cpp.o: ../Soldier.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/bws4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/Army_2.dir/Soldier.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/Soldier.cpp.o -c /Users/alex/Desktop/bws4/Army_2/Soldier.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/Army_2.dir/Soldier.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/Soldier.cpp.o -c /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/Soldier.cpp
 
 CMakeFiles/Army_2.dir/Soldier.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Army_2.dir/Soldier.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/bws4/Army_2/Soldier.cpp > CMakeFiles/Army_2.dir/Soldier.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/Soldier.cpp > CMakeFiles/Army_2.dir/Soldier.cpp.i
 
 CMakeFiles/Army_2.dir/Soldier.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Army_2.dir/Soldier.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/bws4/Army_2/Soldier.cpp -o CMakeFiles/Army_2.dir/Soldier.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/Soldier.cpp -o CMakeFiles/Army_2.dir/Soldier.cpp.s
 
 CMakeFiles/Army_2.dir/SpellCaster.cpp.o: CMakeFiles/Army_2.dir/flags.make
 CMakeFiles/Army_2.dir/SpellCaster.cpp.o: ../SpellCaster.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/bws4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/Army_2.dir/SpellCaster.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/SpellCaster.cpp.o -c /Users/alex/Desktop/bws4/Army_2/SpellCaster.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/Army_2.dir/SpellCaster.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/SpellCaster.cpp.o -c /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/SpellCaster.cpp
 
 CMakeFiles/Army_2.dir/SpellCaster.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Army_2.dir/SpellCaster.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/bws4/Army_2/SpellCaster.cpp > CMakeFiles/Army_2.dir/SpellCaster.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/SpellCaster.cpp > CMakeFiles/Army_2.dir/SpellCaster.cpp.i
 
 CMakeFiles/Army_2.dir/SpellCaster.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Army_2.dir/SpellCaster.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/bws4/Army_2/SpellCaster.cpp -o CMakeFiles/Army_2.dir/SpellCaster.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/SpellCaster.cpp -o CMakeFiles/Army_2.dir/SpellCaster.cpp.s
 
 CMakeFiles/Army_2.dir/SpellCasterAtack.cpp.o: CMakeFiles/Army_2.dir/flags.make
 CMakeFiles/Army_2.dir/SpellCasterAtack.cpp.o: ../SpellCasterAtack.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/bws4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/Army_2.dir/SpellCasterAtack.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/SpellCasterAtack.cpp.o -c /Users/alex/Desktop/bws4/Army_2/SpellCasterAtack.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/Army_2.dir/SpellCasterAtack.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/SpellCasterAtack.cpp.o -c /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/SpellCasterAtack.cpp
 
 CMakeFiles/Army_2.dir/SpellCasterAtack.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Army_2.dir/SpellCasterAtack.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/bws4/Army_2/SpellCasterAtack.cpp > CMakeFiles/Army_2.dir/SpellCasterAtack.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/SpellCasterAtack.cpp > CMakeFiles/Army_2.dir/SpellCasterAtack.cpp.i
 
 CMakeFiles/Army_2.dir/SpellCasterAtack.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Army_2.dir/SpellCasterAtack.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/bws4/Army_2/SpellCasterAtack.cpp -o CMakeFiles/Army_2.dir/SpellCasterAtack.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/SpellCasterAtack.cpp -o CMakeFiles/Army_2.dir/SpellCasterAtack.cpp.s
 
 CMakeFiles/Army_2.dir/SpellCasterState.cpp.o: CMakeFiles/Army_2.dir/flags.make
 CMakeFiles/Army_2.dir/SpellCasterState.cpp.o: ../SpellCasterState.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/bws4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/Army_2.dir/SpellCasterState.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/SpellCasterState.cpp.o -c /Users/alex/Desktop/bws4/Army_2/SpellCasterState.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/Army_2.dir/SpellCasterState.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/SpellCasterState.cpp.o -c /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/SpellCasterState.cpp
 
 CMakeFiles/Army_2.dir/SpellCasterState.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Army_2.dir/SpellCasterState.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/bws4/Army_2/SpellCasterState.cpp > CMakeFiles/Army_2.dir/SpellCasterState.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/SpellCasterState.cpp > CMakeFiles/Army_2.dir/SpellCasterState.cpp.i
 
 CMakeFiles/Army_2.dir/SpellCasterState.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Army_2.dir/SpellCasterState.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/bws4/Army_2/SpellCasterState.cpp -o CMakeFiles/Army_2.dir/SpellCasterState.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/SpellCasterState.cpp -o CMakeFiles/Army_2.dir/SpellCasterState.cpp.s
 
 CMakeFiles/Army_2.dir/Unit.cpp.o: CMakeFiles/Army_2.dir/flags.make
 CMakeFiles/Army_2.dir/Unit.cpp.o: ../Unit.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/bws4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/Army_2.dir/Unit.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/Unit.cpp.o -c /Users/alex/Desktop/bws4/Army_2/Unit.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/Army_2.dir/Unit.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/Unit.cpp.o -c /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/Unit.cpp
 
 CMakeFiles/Army_2.dir/Unit.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Army_2.dir/Unit.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/bws4/Army_2/Unit.cpp > CMakeFiles/Army_2.dir/Unit.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/Unit.cpp > CMakeFiles/Army_2.dir/Unit.cpp.i
 
 CMakeFiles/Army_2.dir/Unit.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Army_2.dir/Unit.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/bws4/Army_2/Unit.cpp -o CMakeFiles/Army_2.dir/Unit.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/Unit.cpp -o CMakeFiles/Army_2.dir/Unit.cpp.s
 
 CMakeFiles/Army_2.dir/UnitAtack.cpp.o: CMakeFiles/Army_2.dir/flags.make
 CMakeFiles/Army_2.dir/UnitAtack.cpp.o: ../UnitAtack.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/bws4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/Army_2.dir/UnitAtack.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/UnitAtack.cpp.o -c /Users/alex/Desktop/bws4/Army_2/UnitAtack.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/Army_2.dir/UnitAtack.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/UnitAtack.cpp.o -c /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/UnitAtack.cpp
 
 CMakeFiles/Army_2.dir/UnitAtack.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Army_2.dir/UnitAtack.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/bws4/Army_2/UnitAtack.cpp > CMakeFiles/Army_2.dir/UnitAtack.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/UnitAtack.cpp > CMakeFiles/Army_2.dir/UnitAtack.cpp.i
 
 CMakeFiles/Army_2.dir/UnitAtack.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Army_2.dir/UnitAtack.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/bws4/Army_2/UnitAtack.cpp -o CMakeFiles/Army_2.dir/UnitAtack.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/UnitAtack.cpp -o CMakeFiles/Army_2.dir/UnitAtack.cpp.s
 
 CMakeFiles/Army_2.dir/UnitState.cpp.o: CMakeFiles/Army_2.dir/flags.make
 CMakeFiles/Army_2.dir/UnitState.cpp.o: ../UnitState.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/bws4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/Army_2.dir/UnitState.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/UnitState.cpp.o -c /Users/alex/Desktop/bws4/Army_2/UnitState.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/Army_2.dir/UnitState.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/UnitState.cpp.o -c /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/UnitState.cpp
 
 CMakeFiles/Army_2.dir/UnitState.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Army_2.dir/UnitState.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/bws4/Army_2/UnitState.cpp > CMakeFiles/Army_2.dir/UnitState.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/UnitState.cpp > CMakeFiles/Army_2.dir/UnitState.cpp.i
 
 CMakeFiles/Army_2.dir/UnitState.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Army_2.dir/UnitState.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/bws4/Army_2/UnitState.cpp -o CMakeFiles/Army_2.dir/UnitState.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/UnitState.cpp -o CMakeFiles/Army_2.dir/UnitState.cpp.s
 
 CMakeFiles/Army_2.dir/Vampire.cpp.o: CMakeFiles/Army_2.dir/flags.make
 CMakeFiles/Army_2.dir/Vampire.cpp.o: ../Vampire.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/bws4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/Army_2.dir/Vampire.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/Vampire.cpp.o -c /Users/alex/Desktop/bws4/Army_2/Vampire.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/Army_2.dir/Vampire.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/Vampire.cpp.o -c /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/Vampire.cpp
 
 CMakeFiles/Army_2.dir/Vampire.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Army_2.dir/Vampire.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/bws4/Army_2/Vampire.cpp > CMakeFiles/Army_2.dir/Vampire.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/Vampire.cpp > CMakeFiles/Army_2.dir/Vampire.cpp.i
 
 CMakeFiles/Army_2.dir/Vampire.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Army_2.dir/Vampire.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/bws4/Army_2/Vampire.cpp -o CMakeFiles/Army_2.dir/Vampire.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/Vampire.cpp -o CMakeFiles/Army_2.dir/Vampire.cpp.s
 
 CMakeFiles/Army_2.dir/VampireAtack.cpp.o: CMakeFiles/Army_2.dir/flags.make
 CMakeFiles/Army_2.dir/VampireAtack.cpp.o: ../VampireAtack.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/bws4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/Army_2.dir/VampireAtack.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/VampireAtack.cpp.o -c /Users/alex/Desktop/bws4/Army_2/VampireAtack.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/Army_2.dir/VampireAtack.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/VampireAtack.cpp.o -c /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/VampireAtack.cpp
 
 CMakeFiles/Army_2.dir/VampireAtack.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Army_2.dir/VampireAtack.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/bws4/Army_2/VampireAtack.cpp > CMakeFiles/Army_2.dir/VampireAtack.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/VampireAtack.cpp > CMakeFiles/Army_2.dir/VampireAtack.cpp.i
 
 CMakeFiles/Army_2.dir/VampireAtack.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Army_2.dir/VampireAtack.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/bws4/Army_2/VampireAtack.cpp -o CMakeFiles/Army_2.dir/VampireAtack.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/VampireAtack.cpp -o CMakeFiles/Army_2.dir/VampireAtack.cpp.s
 
 CMakeFiles/Army_2.dir/VampireState.cpp.o: CMakeFiles/Army_2.dir/flags.make
 CMakeFiles/Army_2.dir/VampireState.cpp.o: ../VampireState.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/bws4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/Army_2.dir/VampireState.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/VampireState.cpp.o -c /Users/alex/Desktop/bws4/Army_2/VampireState.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/Army_2.dir/VampireState.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/VampireState.cpp.o -c /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/VampireState.cpp
 
 CMakeFiles/Army_2.dir/VampireState.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Army_2.dir/VampireState.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/bws4/Army_2/VampireState.cpp > CMakeFiles/Army_2.dir/VampireState.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/VampireState.cpp > CMakeFiles/Army_2.dir/VampireState.cpp.i
 
 CMakeFiles/Army_2.dir/VampireState.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Army_2.dir/VampireState.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/bws4/Army_2/VampireState.cpp -o CMakeFiles/Army_2.dir/VampireState.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/VampireState.cpp -o CMakeFiles/Army_2.dir/VampireState.cpp.s
 
 CMakeFiles/Army_2.dir/Werewolf.cpp.o: CMakeFiles/Army_2.dir/flags.make
 CMakeFiles/Army_2.dir/Werewolf.cpp.o: ../Werewolf.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/bws4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/Army_2.dir/Werewolf.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/Werewolf.cpp.o -c /Users/alex/Desktop/bws4/Army_2/Werewolf.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/Army_2.dir/Werewolf.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/Werewolf.cpp.o -c /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/Werewolf.cpp
 
 CMakeFiles/Army_2.dir/Werewolf.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Army_2.dir/Werewolf.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/bws4/Army_2/Werewolf.cpp > CMakeFiles/Army_2.dir/Werewolf.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/Werewolf.cpp > CMakeFiles/Army_2.dir/Werewolf.cpp.i
 
 CMakeFiles/Army_2.dir/Werewolf.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Army_2.dir/Werewolf.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/bws4/Army_2/Werewolf.cpp -o CMakeFiles/Army_2.dir/Werewolf.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/Werewolf.cpp -o CMakeFiles/Army_2.dir/Werewolf.cpp.s
 
 CMakeFiles/Army_2.dir/WerewolfAtack.cpp.o: CMakeFiles/Army_2.dir/flags.make
 CMakeFiles/Army_2.dir/WerewolfAtack.cpp.o: ../WerewolfAtack.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/bws4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/Army_2.dir/WerewolfAtack.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/WerewolfAtack.cpp.o -c /Users/alex/Desktop/bws4/Army_2/WerewolfAtack.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/Army_2.dir/WerewolfAtack.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/WerewolfAtack.cpp.o -c /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/WerewolfAtack.cpp
 
 CMakeFiles/Army_2.dir/WerewolfAtack.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Army_2.dir/WerewolfAtack.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/bws4/Army_2/WerewolfAtack.cpp > CMakeFiles/Army_2.dir/WerewolfAtack.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/WerewolfAtack.cpp > CMakeFiles/Army_2.dir/WerewolfAtack.cpp.i
 
 CMakeFiles/Army_2.dir/WerewolfAtack.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Army_2.dir/WerewolfAtack.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/bws4/Army_2/WerewolfAtack.cpp -o CMakeFiles/Army_2.dir/WerewolfAtack.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/WerewolfAtack.cpp -o CMakeFiles/Army_2.dir/WerewolfAtack.cpp.s
 
 CMakeFiles/Army_2.dir/WerewolfState.cpp.o: CMakeFiles/Army_2.dir/flags.make
 CMakeFiles/Army_2.dir/WerewolfState.cpp.o: ../WerewolfState.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/bws4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/Army_2.dir/WerewolfState.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/WerewolfState.cpp.o -c /Users/alex/Desktop/bws4/Army_2/WerewolfState.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/Army_2.dir/WerewolfState.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/WerewolfState.cpp.o -c /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/WerewolfState.cpp
 
 CMakeFiles/Army_2.dir/WerewolfState.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Army_2.dir/WerewolfState.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/bws4/Army_2/WerewolfState.cpp > CMakeFiles/Army_2.dir/WerewolfState.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/WerewolfState.cpp > CMakeFiles/Army_2.dir/WerewolfState.cpp.i
 
 CMakeFiles/Army_2.dir/WerewolfState.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Army_2.dir/WerewolfState.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/bws4/Army_2/WerewolfState.cpp -o CMakeFiles/Army_2.dir/WerewolfState.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/WerewolfState.cpp -o CMakeFiles/Army_2.dir/WerewolfState.cpp.s
 
 CMakeFiles/Army_2.dir/Wizard.cpp.o: CMakeFiles/Army_2.dir/flags.make
 CMakeFiles/Army_2.dir/Wizard.cpp.o: ../Wizard.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/bws4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/Army_2.dir/Wizard.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/Wizard.cpp.o -c /Users/alex/Desktop/bws4/Army_2/Wizard.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/Army_2.dir/Wizard.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/Wizard.cpp.o -c /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/Wizard.cpp
 
 CMakeFiles/Army_2.dir/Wizard.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Army_2.dir/Wizard.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/bws4/Army_2/Wizard.cpp > CMakeFiles/Army_2.dir/Wizard.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/Wizard.cpp > CMakeFiles/Army_2.dir/Wizard.cpp.i
 
 CMakeFiles/Army_2.dir/Wizard.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Army_2.dir/Wizard.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/bws4/Army_2/Wizard.cpp -o CMakeFiles/Army_2.dir/Wizard.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/Wizard.cpp -o CMakeFiles/Army_2.dir/Wizard.cpp.s
 
 CMakeFiles/Army_2.dir/WizardAtack.cpp.o: CMakeFiles/Army_2.dir/flags.make
 CMakeFiles/Army_2.dir/WizardAtack.cpp.o: ../WizardAtack.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/bws4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/Army_2.dir/WizardAtack.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/WizardAtack.cpp.o -c /Users/alex/Desktop/bws4/Army_2/WizardAtack.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/Army_2.dir/WizardAtack.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/WizardAtack.cpp.o -c /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/WizardAtack.cpp
 
 CMakeFiles/Army_2.dir/WizardAtack.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Army_2.dir/WizardAtack.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/bws4/Army_2/WizardAtack.cpp > CMakeFiles/Army_2.dir/WizardAtack.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/WizardAtack.cpp > CMakeFiles/Army_2.dir/WizardAtack.cpp.i
 
 CMakeFiles/Army_2.dir/WizardAtack.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Army_2.dir/WizardAtack.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/bws4/Army_2/WizardAtack.cpp -o CMakeFiles/Army_2.dir/WizardAtack.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/WizardAtack.cpp -o CMakeFiles/Army_2.dir/WizardAtack.cpp.s
 
 CMakeFiles/Army_2.dir/Warlock.cpp.o: CMakeFiles/Army_2.dir/flags.make
 CMakeFiles/Army_2.dir/Warlock.cpp.o: ../Warlock.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/bws4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/Army_2.dir/Warlock.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/Warlock.cpp.o -c /Users/alex/Desktop/bws4/Army_2/Warlock.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/Army_2.dir/Warlock.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/Warlock.cpp.o -c /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/Warlock.cpp
 
 CMakeFiles/Army_2.dir/Warlock.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Army_2.dir/Warlock.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/bws4/Army_2/Warlock.cpp > CMakeFiles/Army_2.dir/Warlock.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/Warlock.cpp > CMakeFiles/Army_2.dir/Warlock.cpp.i
 
 CMakeFiles/Army_2.dir/Warlock.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Army_2.dir/Warlock.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/bws4/Army_2/Warlock.cpp -o CMakeFiles/Army_2.dir/Warlock.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/Warlock.cpp -o CMakeFiles/Army_2.dir/Warlock.cpp.s
 
 CMakeFiles/Army_2.dir/WarlockAtack.cpp.o: CMakeFiles/Army_2.dir/flags.make
 CMakeFiles/Army_2.dir/WarlockAtack.cpp.o: ../WarlockAtack.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/bws4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/Army_2.dir/WarlockAtack.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/WarlockAtack.cpp.o -c /Users/alex/Desktop/bws4/Army_2/WarlockAtack.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/Army_2.dir/WarlockAtack.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/WarlockAtack.cpp.o -c /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/WarlockAtack.cpp
 
 CMakeFiles/Army_2.dir/WarlockAtack.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Army_2.dir/WarlockAtack.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/bws4/Army_2/WarlockAtack.cpp > CMakeFiles/Army_2.dir/WarlockAtack.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/WarlockAtack.cpp > CMakeFiles/Army_2.dir/WarlockAtack.cpp.i
 
 CMakeFiles/Army_2.dir/WarlockAtack.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Army_2.dir/WarlockAtack.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/bws4/Army_2/WarlockAtack.cpp -o CMakeFiles/Army_2.dir/WarlockAtack.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/WarlockAtack.cpp -o CMakeFiles/Army_2.dir/WarlockAtack.cpp.s
 
 CMakeFiles/Army_2.dir/Demon.cpp.o: CMakeFiles/Army_2.dir/flags.make
 CMakeFiles/Army_2.dir/Demon.cpp.o: ../Demon.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/bws4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/Army_2.dir/Demon.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/Demon.cpp.o -c /Users/alex/Desktop/bws4/Army_2/Demon.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/Army_2.dir/Demon.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/Demon.cpp.o -c /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/Demon.cpp
 
 CMakeFiles/Army_2.dir/Demon.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Army_2.dir/Demon.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/bws4/Army_2/Demon.cpp > CMakeFiles/Army_2.dir/Demon.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/Demon.cpp > CMakeFiles/Army_2.dir/Demon.cpp.i
 
 CMakeFiles/Army_2.dir/Demon.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Army_2.dir/Demon.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/bws4/Army_2/Demon.cpp -o CMakeFiles/Army_2.dir/Demon.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/Demon.cpp -o CMakeFiles/Army_2.dir/Demon.cpp.s
 
 CMakeFiles/Army_2.dir/Necromancer.cpp.o: CMakeFiles/Army_2.dir/flags.make
 CMakeFiles/Army_2.dir/Necromancer.cpp.o: ../Necromancer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/bws4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/Army_2.dir/Necromancer.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/Necromancer.cpp.o -c /Users/alex/Desktop/bws4/Army_2/Necromancer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/Army_2.dir/Necromancer.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/Necromancer.cpp.o -c /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/Necromancer.cpp
 
 CMakeFiles/Army_2.dir/Necromancer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Army_2.dir/Necromancer.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/bws4/Army_2/Necromancer.cpp > CMakeFiles/Army_2.dir/Necromancer.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/Necromancer.cpp > CMakeFiles/Army_2.dir/Necromancer.cpp.i
 
 CMakeFiles/Army_2.dir/Necromancer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Army_2.dir/Necromancer.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/bws4/Army_2/Necromancer.cpp -o CMakeFiles/Army_2.dir/Necromancer.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/Necromancer.cpp -o CMakeFiles/Army_2.dir/Necromancer.cpp.s
 
 CMakeFiles/Army_2.dir/NecromancerAtack.cpp.o: CMakeFiles/Army_2.dir/flags.make
 CMakeFiles/Army_2.dir/NecromancerAtack.cpp.o: ../NecromancerAtack.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/bws4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/Army_2.dir/NecromancerAtack.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/NecromancerAtack.cpp.o -c /Users/alex/Desktop/bws4/Army_2/NecromancerAtack.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/Army_2.dir/NecromancerAtack.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/NecromancerAtack.cpp.o -c /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/NecromancerAtack.cpp
 
 CMakeFiles/Army_2.dir/NecromancerAtack.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Army_2.dir/NecromancerAtack.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/bws4/Army_2/NecromancerAtack.cpp > CMakeFiles/Army_2.dir/NecromancerAtack.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/NecromancerAtack.cpp > CMakeFiles/Army_2.dir/NecromancerAtack.cpp.i
 
 CMakeFiles/Army_2.dir/NecromancerAtack.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Army_2.dir/NecromancerAtack.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/bws4/Army_2/NecromancerAtack.cpp -o CMakeFiles/Army_2.dir/NecromancerAtack.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/NecromancerAtack.cpp -o CMakeFiles/Army_2.dir/NecromancerAtack.cpp.s
 
 CMakeFiles/Army_2.dir/NecromancerState.cpp.o: CMakeFiles/Army_2.dir/flags.make
 CMakeFiles/Army_2.dir/NecromancerState.cpp.o: ../NecromancerState.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/bws4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/Army_2.dir/NecromancerState.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/NecromancerState.cpp.o -c /Users/alex/Desktop/bws4/Army_2/NecromancerState.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/Army_2.dir/NecromancerState.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Army_2.dir/NecromancerState.cpp.o -c /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/NecromancerState.cpp
 
 CMakeFiles/Army_2.dir/NecromancerState.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Army_2.dir/NecromancerState.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/bws4/Army_2/NecromancerState.cpp > CMakeFiles/Army_2.dir/NecromancerState.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/NecromancerState.cpp > CMakeFiles/Army_2.dir/NecromancerState.cpp.i
 
 CMakeFiles/Army_2.dir/NecromancerState.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Army_2.dir/NecromancerState.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/bws4/Army_2/NecromancerState.cpp -o CMakeFiles/Army_2.dir/NecromancerState.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/NecromancerState.cpp -o CMakeFiles/Army_2.dir/NecromancerState.cpp.s
 
 # Object files for target Army_2
 Army_2_OBJECTS = \
@@ -590,7 +590,7 @@ Army_2: CMakeFiles/Army_2.dir/NecromancerAtack.cpp.o
 Army_2: CMakeFiles/Army_2.dir/NecromancerState.cpp.o
 Army_2: CMakeFiles/Army_2.dir/build.make
 Army_2: CMakeFiles/Army_2.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/alex/Desktop/bws4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Linking CXX executable Army_2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Linking CXX executable Army_2"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Army_2.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -603,6 +603,6 @@ CMakeFiles/Army_2.dir/clean:
 .PHONY : CMakeFiles/Army_2.dir/clean
 
 CMakeFiles/Army_2.dir/depend:
-	cd /Users/alex/Desktop/bws4/Army_2/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/alex/Desktop/bws4/Army_2 /Users/alex/Desktop/bws4/Army_2 /Users/alex/Desktop/bws4/Army_2/cmake-build-debug /Users/alex/Desktop/bws4/Army_2/cmake-build-debug /Users/alex/Desktop/bws4/Army_2/cmake-build-debug/CMakeFiles/Army_2.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2 /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2 /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/cmake-build-debug /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/cmake-build-debug /Users/alex/Desktop/Dream/Dev_Club_Learn/bcw4/Army_2/cmake-build-debug/CMakeFiles/Army_2.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Army_2.dir/depend
 

@@ -27,7 +27,6 @@ private:
 protected:
     virtual void update();
 
-    int magicPower;
     int manaLimit;
     int manaReserve;
 public:
@@ -38,7 +37,6 @@ public:
     int getHitPoints() const;
     int getAtackPower() const;
     Form getForm() const;
-    int getMagicPower() const;
     int getManaLimit() const;
     int getManaReserve() const;
 
@@ -49,7 +47,6 @@ public:
     void setAtackPower(int atackPower);
     void setForm(Form form);
 
-    virtual void setMagicPower(int magicPower);
     virtual void setManaLimit(int manaLimit);
     virtual void setManaReserve(int manaReserve);
 

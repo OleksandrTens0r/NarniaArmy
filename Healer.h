@@ -11,7 +11,7 @@
 class Healer : public SpellCaster
 {
 public:
-    Healer(const std::string &name, int hitPointsLimit, int atackPower, int magicPower, int manaLimit);
+    Healer(const std::string &name, int hitPointsLimit, int atackPower, int manaLimit);
     ~Healer() override;
 };
 
